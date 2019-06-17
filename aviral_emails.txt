@@ -1,0 +1,1526 @@
+ on Sunday at 9:30 AM on the Indian startup ecosystem. If the newsletter lands in promotions, don't forget to save my email as a contact!*8 months ago, I had elaborated on how Meesho is reimagining Indian e-commerce through tapping an unmet supply-demand dynamic. This week, and not unsurprisingly, Meesho has raised from Facebook.  The deal makes perfect sense for both parties. Meesho can leverage the deep social knowhow of Facebook, while Facebook has bought an option to buy a social commerce company. As Facebook's core ad business slows down, new avenues for monetization need to arrive. Selling stuff to your friends on Facebook is a natural extension. , NoBroker's Quest to Disrupt Housing, Last week, real estate startup NoBroker raised $51MM to bolster its push to capture the real estate brokerage market. Broking BadAmit Agarwal and Akhil Gupta, both engineers who were hunting for houses in Mumbai and Bangalore, had terrible experiences searching.
+
+Most house hunting would involve visits to multiple, often suboptimal houses, accompanied by middlemen. Everyone who has ever looked for a house, or rented one, would know this person by one name.
+
+The "broker".
+
+The whole process for house hunting is assisted by the usual scooter driving, smooth-talking broker. At the end of the home search, if a home is sold or rented, the broker takes a fee. For rentals, it can be as high as 18% of the annual transaction value. 
+
+A highly disorganized market, most brokers are individuals. Estimates peg the number of brokers to be 10L+. Brokers would be found in areas of expensive real estate, and hence are concentrated in metro cities. 
+
+With more than 75MM urban households, and people changing homes once in 4-6 years, more than 15MM houses would likely change every year. With 1MM brokers, each broker could likely need to flip 15 homes, or one every month.
+
+It was to facilitate these brokers that an erstwhile startup giant was born. A Housing of CardsThe Indian real estate market is pegged to be worth $120Bn, with a contribution of 12% of the GDP.
+
+It was this massive market that Housing.com, with a $1MM domain name, was trying to crack. Started in 2012 by a dozen IIT Bombay graduates, Housing wanted to make the purchase or rental of houses smooth. With a slick UI/UX and a first-time map-based real estate search. 
+
+The company did have a radical view of helping brokers transact, and helping customers look for houses in a transparent manner. Due to its unique approach to discovery, the company gained significant traction. 
+
+Watching Housing grow on the sidelines was personally my first brush with an aggressively scaling startup. Within two years of its starting, the company raised a mammoth $100MM, and was one of the biggest recruiters from IIT Bombay.
+
+But history is always a teacher, and Icarus is a story that plays out over time. In line with the story, Housing looked up.
+
+As Housing kept looking up, the rise up began to start unravelling. The CEO jousted with investors, and most publicly got ugly, the decline began as fast as the rise. Within two years of the investment, the founder-CEO was fired and team began scaling down. It took 2 years to go up, and another 2 years to rapidly decline. 
+
+By the end of 2015, Housing was in trouble, and NoBroker had just raised it's first $3MM.Game of HomesNoBroker took the zero fee strategy to real estate, something that Zerodha brought to India in a big way.
+
+Like I had elaborated on Zerodha's money making machine, NoBroker removed fees on transactions. Like its name very clearly and aggressively suggests, there will be no broker. 
+
+The prized home, with many suitors, had a new player in the game. 
+
+NoBroker directly connected the buyer and seller, known as the C2C or the P2P model. Without the broker involved, there would be a significant amount of money, and livelihood taken from the broker.
+
+The no-more-brokers were furious and wanted to keep the claim to the home. 
+
+It escalated to a real battle, with brokers physically assaulting the NoBroker staff in their office. A visibly shaken CEO was unable to understand how this could happen in Bangalore. 
+
+The war was on, and NoBroker was fighting to disrupt an age-old market. Just like every other player in a large market, like Uber, fought a well-entrenched incumbent. 
+
+Without broker commissions, the company had to build trust amongst strangers. Stranger ThingsStarting initially with no fee, the company soon started with a nominal subscription fee.
+
+As it was a marketplace, the company had to rely on homeowners and homebuyers. Using detailed data collection techniques and models, the company ensured that no broker could list on its platform.
+
+But removing the broker also left a void of trust that the company had to fill. 
+
+As is visible in these videos of customers, with similar narratives likely managed by the company, there is an element of truth. Most people using the platform would be sceptical of whether the house seller is genuine. More importantly, they would want to know whether the house is as promised.
+
+As Akerlof postulated in his seminal paper on the "market for lemons", markets for goods that have information asymmetry get flooded with bad players. For example, second-hand cars and rented homes need a trusted intermediary to ensure "what you see is what you get"
+
+NoBroker would have to step into this void.
+
+Using detailed verifications and the advantage of data, NoBroker positioned itself as the third party. With a "relationship manager", who basically would play a brokers role for many tenants/sellers, the company ensured the transaction was managed.
+
+NoBroker was solving your house problems. Doctor HouseThe company grew from 35K customers in 2015 to 600K customers by Feb 2016. 
+
+The $4Bn brokerage market was all for taking for the company. As a marketplace for listings, it was monetizing through subscriptions and ads. For people paying INR25-30K as brokerage ($500), an INR 3K-5K plan would be a no brainer.
+
+While slashing the "brokerage" by 80% would contract the overall market by a 5th, roughly to a ~$1Bn, it would also make transacting homes easier. In a growing market, this strategy would help with gaining significant market share. 
+
+Why would NoBroker go after a contracted market, with most purchases one-time for many years?
+
+As you would remember, the residential real estate market is massive. Utilising the platform would get NoBroker the literal foot in the door. It could upsell and cross-sell multiple home-related services and products.
+
+The company was getting in at the beginning of the customer house lifecycle. Over the lifetime of renting/purchasing a house, customers would need various goods or services.
+
+NoBroker was not just a buyer/seller marketplace for homes, it was pushing to create an ecosystem. 
+
+Competitors such as 99Acres, Magicbricks, Housing and Grabhouse were warned. Brokelyn Nine-Nine2017 would be a turning point for the industry. 
+
+Housing would be merged for lesser than what was invested in, despite a last-ditch attempt to save the company. Grabhouse would also fall, being acquired for Quikr for lesser than it had raised. What would remain would be 99Acres and MagicBricks. 
+
+The hot rental market would cool, cool, cool.
+
+As a pioneer of online real estate listings, 99Acres would be lagging behind its hipper juniors, as it continued to push listings. Customers would end up searching for NoBroker on 99Acres - would it be Bye Bye 99?
+
+As MagicBricks and 99Acres would play catchup, NoBroker would continue to scale even faster. Over 2018, the company would engage in 1.05 lakh buy-sell transactions. With 97K rental deals and 8K house sale deals, one would wonder why there be so many rental deals. 
+
+Given NoBroker had no fees for transactions, higher volume real estate transactions (renting) would be more value for money on the platform. In effect, the platform, through its fees, would self-select for rentals. 
+
+Because rentals would result in more transaction activities, it would allow NoBroker to have more engaged users. These users could be monetized through other channels.
+
+NoBroker had not only acquired the customer, but also property related spend.Rick and PropertyOver the year, NoBroker introduced various streams to continue to monetize the ecosystem.
+
+Rental agreements, packers and movers, NRI listings were one of the first few offerings the company made. The more interesting movements into becoming an ecosystem player, though, were even more closely linked.
+
+It would be managing rental payment flows. As any ecosystem company would know if you sit in the flow of money you make money. The rental payment would ensure that the number of interactions of a customer with NoBroker is even higher. This ecosystem would result in an increasing scale for the company. Most recently, it had 1MM+ connections, added 75K+ listings monthly and saved $10MM of brokerage monthly. Assuming the company makes 20% of actual brokerage, that would be ~$2MM of revenue every month from the "no-broking" business. One would expect additional incomes from the rental flows, where it would make a small fee from rent. 
+
+With 2.5MM+ listed properties, assuming 80% are rented, that is 2MM properties. If all the rent flows through NoBroker, assuming 14K of rent ($200), it is $400MM of rental flows each month. Even 1% of fees is $4MM.
+
+It is little wonder why the company has been able to raise so much money.Rent, They See UsThe company can scale to become a honeypot for rental originations. 
+
+Utilizing the successes in India, the company could similarly scale to high real estate density metros across South East Asia. With very similar markets, the company could replicate its end to end transactional model across other ecosystems.
+
+In essence, the company remains true to its name of being "NoBroker", as it is not a broker but a property company. Facilitating transactions helps it get a leg into the property.
+
+Housing and the real estate markets across any geography are massive, as living and accommodation are core human needs. The company will face similar or even greater resistance from well-entrenched brokers in other markets.
+
+It's $51MM fundraise, though, will ensure it's well capitalized to think bigger. At a likely valuation of $200MM, it is at ~5x revenue. But, with 2.5MM properties, it is an implication of extracting $80 of value/property - which seems fairly doable.
+
+NoBroker could reimagine real estate, and looks well placed to disrupt housing (and Housing)3 months ago, I had talked about how ShareChat will have a complex path ahead in their quest to dominate India's vernacular user base. Last week, ShareChat was primed to raise another $100MM to fight the onslaught of viral Chinese apps.  
+
+With a marginal increase in its valuation, ShareChat will need all the capital and assistance to engage users. TikTok's momentary ban has been the only respite for the Indian upstart, as it looks to preserve its early mover advantage for engaging the next billion users. This year will be critical for the company's future, as it continues to look to scale. , Will Lenskart Shape India's Vision?, Last week, online eyewear upstart Lenskart was reported to be raising $350MM, propelling it to unicorn-dom. Creating ValyooAfter 4 years in the US for his undergraduate studies and a stint at Microsoft, Peyush Bansal had an idea of starting a new business in India. 
+
+The startup would search for college-related needs on a listings portal. Far from helping people find vision, his first experiment as a founder solved an entirely different need.
+
+A couple of years into his first startup, Mr. Bansal (no relation w/ Flipkart), thought it may be better to do something else, under his company Valyoo Technologies. 
+
+Inspired by the boom of the internet in the US, Valyoo would tap the growing online retail boom in the US. Working from India, Valyoo would manage customers for its US business partners.
+
+While the original campus search business continued to do well at $300K of annual revenue, the new "product" business also began raking in revenue. It may seem ironic that there was a lack of "concrete" vision here, but iteration is the mother of all startups. 
+
+The US-focused business, while successful, had little control of end-user experience. 
+
+Mr. Bansal thus began looking India-ward again. Inspired by the online retail experience, his companies would sell bags, jewels, watches and lenses. Bagskart, Jewelkart, Watchkart and Lenskart were thus born. Perhaps in a hat tip to another "kart", they were all named with the same suffix. 
+
+Winding down the other businesses, the focus would be on these 4. Playing in Many KartsThe narrative of targeting many online Indian consumers through 4 verticals made sense in 2011.
+
+India was just beginning to come online, and most marketplaces would need to sell multiple product types to actually be businesses and not hobbies. In an interesting forward-looking view, the 4 businesses looked at niches individually. 
+
+The 4, especially Lenskart, would pick up from the get-go. 
+
+Each company would serve as an online marketplace for brands that existed offline. The marketplaces would provide great variety, transparent pricing and doorstep delivery.
+
+At a time when all these features were unheard of, Valyoo was certainly creating value.
+
+Attacking 4 large unorganized markets would help it raise its first round of capital that would propel it forwards from a small 50 member company to something bigger. 
+
+As the company grew to revenue of $1MM in 2012 and $4MM in 2013, it began to look at another round of financing. The good news was that Lenskart was growing at a clip. The bad news was that all the other 3 were failing.
+
+In tandem with its fundraise, the vision of the business clarified. It would only focus on eyewear. 
+
+That would be a $4Bn market, disorganized and ironically, opaque. I've Got My Eyes on YouGrowing at 15 per cent year on year, the $3Bn eyewear market was disorganized and complex.
+
+Despite more than 25K opticians, of which over 22K were single store, there was still a large Indian population that did not have access to eyewear solutions. In a country of a billion people, this number would almost be 100MM. Large, complex, disorganized - eyewear was ripe for disruption. 
+
+Yet, few startups were able to start.
+
+Owing to the complex supply chain, that resulted in these disorganized market structures - think agricultural supply for a parallel. As an eyewear company CEO quipped presciently "You couldn't add a tab to your website and find suppliers"
+
+The complexity would also result in complete opacity in both price and experience.
+
+As anybody who wears spectacles would testify, we had no clue why a particular set of glasses were priced one way, or if we had any other option apart from those glasses. As it seemed like eyewear was "tailored" to your vision, nobody really asked any questions.
+
+The many intermediaries would take advantage of this information arbitrage, jacking up prices. The result would be inordinately expensive eyewear. As people needed glasses to see, most customers would pay up. 
+
+The outrageous margins have resulted in the creation of a global monopoly that most have not heard of. A piece which I recommend reading elaborates how Essilor-Luxoticca quietly shapes the vision of 1.4 Bn people in the world. 
+
+It was against these forces that Lenskart would need to scale.Checking You OutDue to its small size in a giant market, Lenskart would continue to grow rapidly, clocking $14MM of revenue in 2015. 
+
+This would be an almost consistent growth of 2x year on year since 2011, and the company had now scaled to 7 cities. If you have ever been puzzled as to why eye check-ups are free, eye check-ups are a mechanism to generate leads and collect quality data. 
+
+With 300+ eye check-ups every day, Lenskart's growth proved that there is no such thing as a free eye check-up.
+
+The strong growth on the core Lenskart business and the wind-down of the unprofitable three would make the company more investment worthy.
+
+It would raise $25MM  to continue at home delivery of eyewear, and invest further in building physical stores. An Earthquake is a DisasterEyewear is a trust business, and having physical stores creates "touch and feel". Customers feel comfortable handing over their vision prescription to you (which is why checkups).
+
+In their quest for growth, Lenskart got momentarily blinded.
+
+Nepal and North India had just been struck by an earthquake. In a world where social media dominates, Lenskart sent out a clumsy promotional campaign asking potential customers to "shake it off like this earthquake" 
+
+It would be a PR meltdown and a humbling lesson to the growing startup on fixing processes.
+
+The campaign would be a company disaster that would take the company some time to shake off, resulting in an immediate apology from its leadership.
+
+Lenskart would have to bounce back from this trust erosion.Vision 20/202016 would be a turning point for the company. 
+
+On the back of a PR storm, it would begin to mature as a company. The startup began to go deeper into the complex supply chain it was a part of, removing intermediaries to ensure procuring eyewear was a much more transparent process.
+
+It would also firmly establish itself as an affordable eyewear brand, helping everyone see better. 
+
+With an average order value of INR 2K ($30), almost half of a "high street" store, Lenskart positioned well on price. Utilizing a franchise model, the company was able to scale up rapidly in Tier 2/3 cities, where internet penetration was limited.
+
+Lenskart would shell out 30% per order, or have a CAC of $9 per customer order. The eye check-ups and eye camps would result in word of mouth campaigns, resulting in conversions for the company. 
+
+In the process, the company would grow ~2x again to $26MM of revenue. It would set its sights firmly on 2020 with a plan to enter 372 more cities/towns to continue scaling. 
+
+The tailwinds were blowing in the correct direction. Zooming InTo improve business margins, Lenskart would make a slew of strategic changes.
+
+The biggest would be to start its own in-house label, John Jacobs, that would be an affordable premium eyewear brand. By creating its own brand, it would further improve the supply chain and create more value for the company.
+
+The brand alone would contribute to $14MM of the company's $50MM of revenue in 2017. In line with margin and profitability improvement, the company would continue to invest in manufacturing and technology. With almost $30MM in tech investment every year, Lenskart would continue to improve its supply chain.It would end up creating a manufacturing facility that allowed it to create 100K frames every month, which would help bring down the cost of eyewear by another 30%. In the process of zooming into the supply chain, the company had reached a valuation of $460MM. On the back of $90MM of revenue in 2018-19, it would be at 5x revenue. Lenskart's activities would also help it improve its losses, growing while maintaining burn at a constant rate.
+
+Contributing to a large share of organized eyewear sales, Lenskart was now in the big league. A Visionary BrandWhile spectacles tend to be infrequent purchases, increasing incomes would allow people to purchase multiple eyewear or lenses simultaneously. 
+
+By making eyewear affordable, Lenksart was going deeper into a customer's wallet by allowing her to make more purchases. No longer viewed only as a tool to see better, spectacles were now also beginning to be a fashion accessory.
+
+It is little wonder Lenskart's new brand ambassador is the fashionable Katrina Kaif, who quips that "I am Hooked" while circulating through 10000 looks in 10 seconds.
+
+While subconsciously priming consumers into purchasing more eyewear, Lenskart also got into the contact lenses market. To improve its in-store experience, it made a slew of acquisitions resulting in a future looking 500th store. 
+
+As the brand proliferated, Lenksart has begun to be more ubiquitous. The likely fundraise is to help it cement its position as a go-to brand for eyewear, and dominate the eyewear market, both in India and South East Asia
+
+With hard lessons learnt, and many pivots, Lenskart looks poised to shape India's vision.2 months ago, I had elaborated on how PhonePe could be Indian payments' dark horse. Following its Flipkart driven momentum, the company is seriously challenging the "big ones" in payments and is likely to raise $1Bn at an $8Bn valuation. 
+
+The company's tearing growth, coupled with the UPI v/s a wallet strategy, is likely to position it well to acquire India's consumers. PhonePe, in a matter of years, is very close to the scale of PayTm, which will also be under pressure through Whatsapp Pay. I expect PhonePe to be even more strongly positioned with a stronger adoption of UPI. , Can Ather Be India's Tesla?, Last week, homegrown electric scooter startup Ather Energy raised $51MM in to help transform last mile transportation. Battery of DreamsFar from the slick scooter that the company has today, Ather had humble beginnings in the incubator of IIT Madras. 
+
+Started by IIT Madras alumni Tarun Mehta and Swapnil Jain in 2013, the duo returned to their institute's incubator to develop a battery pack. The battery, which was lithium ion, is a progression from the earlier battery types used in electric vehicles. The team, which had initially worked on building swappable batteries, thought they would sell their batteries to scooters makers.
+
+But, unfortunately, there was no vehicle to sell it to.
+
+The founder saw that electric scooter vehicle owners usually used to complain about negligible power and poor battery life. Most founder journies begin with finding a pain point, a problem to solve. 
+
+Ather Energy had found its problem to solve, an aspirational electric scooter. 
+
+Building a scooter around a lithium-ion battery that would help solve these pain points. But, the road between idea and actual execution is a long way. In a capital intensive business like building a new scooter from scratch, it would be very hard work.
+
+Especially if you were a young, first-time entrepreneur with no experience building a scooter, and not much capital to begin with.A Tall OrderIn a market where most first-time entrepreneurs go the route of building internet businesses, the Ather Energy team took up the ambitious task of manufacturing an electric scooter from scratch.
+
+The team had everything going against them. 
+
+They were building for an electric scooter market, which was unproven. Developing the scooter would take years of no revenue and only costs, profitability was a distant dream. The founders were first-time entrepreneurs with only a few years of work experience. 
+
+Market, model, management were all question marks to investors. 
+
+It is why the company had significant difficulty raising capital. Apart from the (now incredibly) valuable investment from IIT Madras, Ather had to efficiently build out its product.
+
+Ather had a tall order of having no orders and yet innovate in a capital intensive business. 
+
+Faced with a capital crisis, the company found angels in the form of the Flipkart founders. In his reply to my tweet on how Flipkart is helping build an ecosystem, Tarun (Ather's CEO) elaborated how this financing significantly helped Ather. 
+
+With a strong roster of angels, Ather now had significant credibility. Capital, Capital, Everywhere, But?With the backing of well-respected founders, Ather had got more than just a capital boost. 
+
+Encouraged by the vote of confidence by Flipkart's founders, Flipkart's earliest investors backed Ather with another $12MM in 6 months time.  One may have even thought a lot of capital would translate into successes soon.
+
+But that was far from the truth.
+
+Ather had started to test out its scooter product, the Ather S340, and pushed incredibly hard to get it in place for a startup conference. Like all startups, there were clearly inefficiencies in the product, though it was likely necessary to get where the company is today.
+
+But that would only be the beginning of a reality check for the young company trying to disrupt two-wheeler mobility.
+
+Building a full-scale product like a scooter cannot be shortchanged. Scooters have been in the market for years, and customers already have fairly well-defined baseline expectations.
+
+Unlike an internet platform, where most people have likely never seen such a use case (e.g. Flipkart), customers know what to expect from a scooter. One can iteratively make changes to a website ("shipping software"), but you cannot go with a half tested battery system for an electric vehicle.
+
+Customers will be unforgiving, and Ather had to get it right when they launched.
+
+From choosing wrong vendors to the wrong components, the "prototype" mentality ("shipping products") had begun to hurt Ather. The company had to get vendors, components - everything right to build a product that could be produced at scale.
+
+The young company now needed veteran hands. Main Tera HeroThe software style approach to building scooters would take the company a long way in the future, but was bottlenecking the company in 2016.
+
+Ather had to scramble to various parts of the world to get components, such as an electric wiring harness, or get the right vendors. The company needed to maintain its scrappy culture as a startup while getting the processes of a large scale automotive company. 
+
+In late 2016, the company got the Hero they needed, with the automotive giant committing $19MM.
+
+Bringing Hero on board would soon begin to transform Ather, with assistance on the right processes. More importantly, vendors and component manufacturers would now look at the young startup as a related party of their large customer. 
+
+If the backing of the Flipkart founders lent credibility with the capital markets, the backing of the well-respected two-wheeler automotive giant would lend credibility in the automotive markets. 
+
+Senior hires would soon join to bring structure to the company. Suppliers would be more welcoming and timelines would begin to take shape. The scooter would be slated to release in mid-2018. 
+
+The company was getting in line to become a serious challenger in a giant market. Two Big WheelsAs this hilarious standup on Indian Bikers testifies, two-wheelers are everywhere in India. Two wheelers is one of the few markets in the world where India is number one, selling more than 20MM units every year. Assuming an average price of $1,200, the market is ~$25Bn. The leader in the market is Hero, accounting for more than 30% of overall sales, and dominating over the years.
+
+To showcase how quickly the market has grown and Hero has dominated, Hero's sales in 2018 were equal to the entire market's sales just a decade ago. 
+
+India is a densely populated country, and by virtue of this tends to have narrow, snaking roads (or paths pretending to be a road). A two-wheeler is usually the quick saviour to get to most places that may just be inaccessible to four-wheelers. 
+
+Two wheelers are the queens of last mile transportation. 
+
+The entire sales, though, are of petrol or diesel two-wheelers. Electric vehicles were largely unavailable or unaffordable for the common consumer. Ather was building for a market that was entirely new, in demand if not in concept.
+
+The race for the electric two-wheelers was on. Charged UpRising fuel prices and demand for vehicles that ran on cleaner energy were creating a need for electric vehicles globally. While these may have been "nice" economic reasons, owning an electric vehicle was never aspirational.
+
+Until Tesla arrived with its luxury Roadster. 
+
+Tesla transformed the electric vehicle industry with fantastic looking, and performing,  cars that behaved a lot like a computer. With over the air updates, the cars could be "upgraded" remotely. This strong push helped lift electric car sales from a measly 17K in 2011 to 360K in 2018, dominated by Tesla. 
+
+With a real aspirational product, albeit slightly expensive at $130K+, the market showed it had an appetite. 
+
+While petrol prices became dearer, the cost of managing an electric vehicle began to fall. Additionally, regulations would begin to push towards having fewer petrol vehicles and more electric vehicles. 
+
+Market forces, both regulatory and economic, were beginning to slowly align for electric vehicles. Delivering a RideAther had initially estimated its S340 to be rolled out at the end of 2016, but was found to be launching in 2018. In a telling similarity with Tesla, the Roadster 2008 was also delayed by 2 years. The S340 would release in June 2018, along with the 450. The price for the 340 would be INR 109K ($1.5K) and the 450 would be INR 124K ($1.7K). Priced fairly higher than your average two-wheeler scooter, the product would have all the features to likely justify it.
+
+Designed in quiet white, the scooter is also surprisingly quiet while delivering strong performance. With clippy acceleration and a strong balancing system, the scooter delivers a smooth ride. The connectedness of the scooter through its screen and navigation systems make it easy to manage and maintain.
+
+All this would be connected to a battery grid, that Ather would need for charging its bikes. Setting this up will be necessary to drive adoption for Ather bikes. 
+
+With a presence in Bangalore to begin with, the company soon plans to expand to Chennai and Pune. Building a BusinessWith a target of 10,000 units the first year, Ather has a production capacity of 20,000 units. 10,000 units imply revenue of ~$12MM, which would form 0.05% of the overall market by volume, a fairly small scratch.
+
+The company also claims unit level breakeven for ~75K units, which implies revenue of ~$90MM, while EBIDTA level breakeven for 200K units, which implies $240MM of revenue (and expenses). This implies that at a ~75K units, the operating cost per vehicle would be equal to the price of ~$1.5K.
+
+Assuming an industry high gross margin of 30%, that implies $450 of margin per unit to cover operational fixed costs. For 75K units, that is $34MM of expenditure on operational fixed costs. Keeping operational fixed costs the same, at 200K units, operating cost/unit becomes $34MM/200K or $170 (from $450).
+
+That leaves $450-170 or $280 on a per unit basis. This works out to 18%, which is healthy to include a "marketing cost per unit" (CAC) aka dealership fee, which usually is 7-8%.
+
+Suffices to say that volume, as in all businesses, will make this work. An Electrifying FutureThe Indian government expects to help 30% of vehicles go electric by 2030, up from 1% today.
+
+Even if you assume that there is no growth from the 20MM two-wheeler units sold every year, that implies growth from 200K to 6MM, a 30x growth. Over a 10 year period, that is 40% growth year on year, an enviable growth rate.
+
+The challenges for electric scooters are likely to be adoption, more driven by electric infrastructure than price. Over time, as companies like Ather scale and bring down prices, they will be constrained more by the availability of charging points and less by demand. Early adopters, who want electric vehicles, will not be extremely price sensitive. 
+
+Educating customers will remain key, which is why Ather has taken the experience center strategy to showcase how the electric scooter works. This has classically been done by Tesla, which is recently struggling for demand due to electric cars continuing to be pricey. 
+
+Ather, on the other hand, has a massive market opportunity and a bright future ahead, because it is not very far away from market price. The company shows no signs of engaging in the constant brinkmanship that Tesla's founder is particularly fond of. Most people are rooting for Ather to be a truly Indian innovation, solving a truly Indian problem.
+
+Ather can be India's Tesla, and a lot more, if it delivers even 1% of India's scooter market.2 months ago, I had charted the journey of The Viral Fever, and how it has grown to be a household brand, with ups and downs like a TV show. Last week, the company raised a Series D, with participation from its initial investors, pushing the company's valuation to $80MM. 
+
+This is a significant shift from treating the company like an "investor pariah" and is likely because the company now has a scaling business model and team. Their most recent show, Kota Factory, is very well made and signals the strong potential for TVF to be a full production house. I would reckon that TVF will double down on this strategy, and scale faster.  , WTF is Venture Capital?, Last week, Nexus Venture Partners began raising its $420MM fund and Endiya Partners raised $40MM, in a hectic fundraising year for VC funds. Children of WarThe origins of venture capital go way back to the mid-1950s when an American research organization American Research and Development Corporation began investing small amounts in private companies. 
+
+The goal of the ARDC was to finance post-war veteran companies, as soldiers would look for other means of employment after the end of the World War. 
+
+While one may even qualify the financing of Christopher Columbus' expedition by the King and Queen of Spain as "venture capital" (adventure capital?), professional VC would begin in earnest on the East Coast of the US.
+
+ARDC's $70K investment in DEC would result in a $355MM IPO, something that would make even Uber's earliest investors proud. 
+
+Professional venture capital would get seeded with ex-employees at ARDC, who would start in and around Boston. Greylock Partners would be formed, but the real action would start miles to the west. 
+
+That would be Silicon Valley, of course.A Cottage in a ValleyIn the land of the Gold Rush, the birth of the semiconductor would help attract technological talent from all over the world.
+
+The pioneer of this semiconductor land grab would be the unknown but highly influential Shockley Laboratory, that would be the meeting ground of some of the most well-known names in technology. 
+
+The traitorous eight of Shockley's lab would create Fairchild Semiconductors. The Eight would have their hands in building legendary technology and VC firms. While Moore and Noyce would go onto setup Intel, Eugene Kleiner would setup Kleiner Perkins. An employee at Fairchild, Don Valentine, would setup Sequoia Capital.
+
+A cottage industry called venture capital was born. High StakesVenture capital would step in to provide financing to young companies that could not raise capital from the traditional financing institutions, like banks. 
+
+Companies that did not qualify for such financing would be those with new-age technologies, unique business models, or strong management teams but little revenue. None of these would fit the criteria of banks, but there was a need.
+
+These were high-risk investments, but if they worked, they could change industries. 
+
+VC investors would provide a small amount of capital, like $500K, in exchange for significant equity of a company, like 20%. While the company would be unprofitable today, the expectation would be that it would be profitable in the future. If the company could grow and become profitable, 20% would be worth a lot more than $500K.
+
+Simple arithmetic, but very difficult to put to practice. 
+
+Most companies would take the money, but never grow to see the light of profitability. But, even if 9 lost $500K each, but one made more than $5MM, the portfolio of 10 would make money for the venture capitalist. If one made $355MM, like on DEC, that would make you a great venture capitalist.
+
+A lot of venture capitalists would attempt for greatness in 1999.Y2K is The EndRiding on a new something called "The Internet", startups would spring up trying to provide everything online. 
+
+Books (Amazon), Music (Napster), Search (AskJeeves), Email (Hotmail), Apparel (Boo), DVD Rentals (Kozmo), Everything (Yahoo), Browser (Netscape) and Petfood (Pets). A lot of these companies were significantly well funded by venture capitalists trying to make it big.
+
+Netscape and Yahoo would have incredibly successful multi-billion$ IPOs in 1995/6 that would make every venture capitalist think (s)he could be great. Money would follow everything and anything built on the internet. 
+
+By 1999, billions would flow into both public and private technology companies. Between 1999 and March 2000, the Nasdaq would break every record, crossing every 100 point milestone from 2200 to 5000. 
+
+The Nasdaq would not see 5000 for another 15 years after March 2000. 
+
+The dot-com meltdown would take a lot of companies with them. Of the companies mentioned above, only Amazon exists in a form better than 1999. The rest were acquired, gradually declined, or simply collapsed in 1999/2000. 
+
+VC in the US temporarily died, but it was taking birth in an entirely different place. Welcome to IndiaThe liberalization of 1991 opened up the Indian market to the world. 
+
+External capital would flow into the Indian market, wanting to tap a new growth story. It would grow from a tiny $100MM in 1991 by 50x, reaching $5.3B in 1996. The stories of the successes in US VC would inspire Indian entrepreneurs. 
+
+ChrysCapital would be founded in India as a PE/VC fund in 2000, run by Ashish Dhawan who had spent his educational and professional life in the US. Westbridge Capital would soon follow, and India had its first few funds in 2000.
+
+The Indus Entrepreneurs (TiE), which had been extremely successful backing Indian entrepreneurs in the US, would start its Bangalore chapter. The lull after the dot com crisis would dissuade VCs from arriving, but angels would start actively investing in young Indian companies. 
+
+Many of these angels would end up being the founders of storied Indian funds. 
+
+After 5 years of strong economic performance, and the dotcom crisis out of sight, VCs started to rapidly setup to India. In 2006-8, Sequoia would acquire WestBridge, Helion would kick off, Nexus would be founded, Erasmic would be acquired by Accel, Norwest would start India operations, NEA would invest in Indo-US Ventures (now Kalaari).
+
+These 2 years would see incredible VC setup activity, which seems to be done in tandem to not miss out. The bigger question would be, how would these VCs make money?The Business of BusinessesAll the Indian VC funds would be incorporated in Mauritius, because of its tax-friendly regime with India. Mauritius had a double taxation avoidance agreement (DTAA) with India, which meant that Mauritius companies would not be taxed for their gains in India.
+
+The interesting rule was, capital gains were not taxable in Mauritius. That would, quite literally, be a golden rule for Indian VCs.
+
+VCs are fund managers, essentially managing a fund that invests in young companies ("startups"). Just like startups "raise" from VCs, VCs raise from wealthy individuals or institutions known as Limited Partners or LPs. The fundraise would lock in capital for 5-7 years, known as the fund lifetime. 
+
+All LPs would be sending their money to Mauritius based funds. 
+
+The General Partner, or GP, would be responsible for managing the fund. Like every fund manager, a management fee would be charged on the amount raised to run operations. For VC funds, that fee is usually 2% every year. For a $100MM fund, that would be $2MM a year.
+
+In addition to the management fee, VC fund managers also take carried interest, or "carry". Carry is taken as a % of capital gains (profits) earned by the fund. Let's say the $100MM fund has exits $300MM in 5 years. Let's assume a hurdle rate, which is the minimum expected return, is set at 10%. $100MM is thus expected to be 100*1.1^5 = $161MM.
+
+The remaining $300-$161 = ~$140MM is profit. The VC fund manager makes carry on this profit, usually being 20%. In 5 years, the fund manager would make 5*2MM = $10MM through management fee, but 20%*140 = $28MM through carried interest. 
+
+Clearly, carry can be gold. 
+
+While it may have seemed puzzling to take management fees, unlike most businesses, VCs don't make money on a yearly basis. VCs only make money on an exit, and till an exit does not happen the VCs investment is locked in the startup. Exits usually take 4-5 years. 
+
+It is little wonder 2-20 (fees-carry) is now standard in the VC business. As capital gains were not taxed in Mauritius, and VCs made all their profits from capital gains, Mauritius became standard for VCs. 
+
+India would see hectic activity in the next decade. Coming of AgeAs I had elaborated in my previous piece, the successes of India's IT giants would make Bangalore a hub of startup activity. 
+
+VCs would follow and set up shop in Bangalore, backing startups that would get created. Seed rounds would start happening. A small e-commerce player called Flipkart would raise a seed round in 2007, whose story would also very aptly tell the story of India's decade in VC. 
+
+Flipkart's seed would be the beginning of a strong decade of PE/VC investing, despite the financial crisis of 2008.
+
+2008 would see $10Bn being deployed in PE/VC in India, across 300+ deals. 2009 would see a collapse, but India would soon see activity reaching $10Bn in 2013. Over these three years, Flipkart would raise a Series A, B, C and D, becoming a unicorn. Every stage of fundraising is given a letter of the alphabet, and Flipkart wouldn't stop here. 
+
+2014 would be the inflexion point for PE/VC, as it would break the $10Bn mark. The next 3 years would be a literal gold rush, with $51Bn being invested, more than the first 7 years combined.
+
+Flipkart would be the poster child of this rush, raising billions. In a downturn, Flipkart would also get marked down. In 10 years, more than 4200 investments would be made, and hundreds of large companies would be born. With Flipkart's $20Bn acquisition in 2018, Flipkart's early investors would be branded great venture capitalists. 
+
+With its mega exit, Indian VC would come of age.Preposterous PredictionsPerceptive readers would have noticed that I don't name any investor in a startup, largely because I want the focus to be on startups.
+
+For this piece, which is a homage to all those who took risks to create a new industry, I have broken the rule multiple times. It is on the giants of shoulders that we stand, on the other side of the table, hoping to be part of a startup story that we can tell.
+
+Venture capital is still a small, niche industry, and famously quiet on how it operates. I see it changing, and hope to be part of the change, as we VCs begin to describe what we do. Finding and backing a startup with potential early on is an incredibly complex task, and it turns out to be as much of an art as it is a science. 
+
+It is why I think that VC is here to stay.
+
+In the classic piece "Is VC still a Thing", Mark Suster elaborates how VC is going to be even more exciting as companies stay private longer. I would add to that argument to point out that VC is based on very little data (more art), and hence will be very difficult to automate.
+
+VC involves few, deliberated decisions, that are driven more by the human aspect ("we back teams") than anything else. Making these deliberated decisions could result in "Uber returns", or not. The thrill of making these "right" decisions is not only in the returns but in being able to help entrepreneurs on long, complicated journies to success. 
+
+India, with its growing young, ambitious population will create incredible value over the next few years, regardless of who runs the country. VCs will, therefore, need to up their game as trusted advisors to help build these companies.
+
+It is truly an exciting time to be part of the ecosystem. Roughly 6 months ago, I had talked about how Grofers could be rising again, after many years of turbulence. The company raised $220MM from Softbank, making it the largest fundraise in the grocery sector till date. 
+
+While funding is not a measure of success, I would count this as a big win and kudos to the spirit of the team to stay put after times of turbulence. This is especially important because larger well-funded rivals Swiggy, Flipkart and Amazon have all entered the space. It will be an exciting watch as everyone gets into a hotly contested space. , Will BigBasket Win or Perish?, Last week, BigBasket raised $150MM to push for pole position in the hot Indian grocery space, resulting in the company becoming a unicorn. DotCom Bust?The origins of the BigBasket team are not with BigBasket, but way back in 1999. 
+
+The BigBasket team, way ahead of their years, started an e-commerce business in 1999 called FabMart. At a time when dial-up connections in India existed, and pages took a minute to load, FabMart's team had the courage to start a business. 
+
+When payment gateways did not exist and an online consumer based was just an illusion, FabMart went through the dot com bust. Starting by selling only CDs online, the company diversified into other products such as books, watches, and of course, groceries. 
+
+The company was acquired in 2006 and rebranded itself as IndiaPlaza, and even operated as recently as 2011. Indiaplaza was run by six founders, a fairly large founding team that largely remained together for BigBasket. Over a decade of experience in the suddenly exploding internet e-commerce market pushed them for a new calling.  
+
+Four of the IndiaPlaza "mafia", V S Sudhakar, Vipul Parekh, Hari Menon and V S Ramesh moved on from IndiaPlaza to start BigBasket. They were joined by Abhinay Chaudhari to complete the founding team. 
+
+An internet business, only selling groceries, was born.Big Basket of CapitalGiven the founders' relatively high experience in the Indian e-commerce sector, BB started off being very well funded. 
+
+With $10MM of capital in 2011, it was in the esteemed league of Flipkart which had just raised $20MM to capitalize on the to-be-booming e-commerce market. Faced with broken delivery infrastructure, a small but growing set of customers, and limited payment infrastructure, BigBasket was against a wall.
+
+Most Indian consumers in 2011, and even today, purchase groceries from their trusted neighbourhood grocer, mandi, or a Kirana store. Trusting an unknown online grocer to send you fresh groceries, that too over something called the "internet" would be alien to most customers. 
+
+BigBasket would need all the capital to scale its business. 
+
+Armed with capital, but a mountain to climb, BigBasket set out in earnest. BigBasket essentially started off as an online mandi, and given the small customer base, it had to purchase its own produce from a mandi.  
+
+Purchasing from the mandi would mean wafer thin retailer margins, as mandis themselves were places customers would purchase from. BB, though, provided a superior experience to customers who wanted to have groceries at the doorstep. 
+
+Instead of navigating dense city traffic and choosing groceries, the benefits allowed BigBasket to do $4MM of GMV in its first year (and $400K of revenue).
+
+The company, though, was staring at an elephantine market. Hunger for FoodTo say that the Indian food and grocery market is giant is an understatement.
+
+Food forms one of the largest parts of India's massive $650Bn+ retail market, pegged to be one of the world's 5 largest. Groceries are expected to grow from $300Bn to $600Bn in the next 5 years.
+
+Why wouldn't someone corner this massive market?
+
+Organized retail, despite being existent for decades, has only managed to garner 10% of the overall market. Large offline retailers such as Future Bazaar, D-Mart and Reliance exist in the organized format. Despite having capital, these companies have found it difficult to make inroads into the overall food/grocery market.
+
+The difficulty is an incredibly complex supply chain.
+
+While packaged food and groceries tend to have a more balanced supply chain, fresh produce, which is the largest component, is unbelievably complex. In a morass of middlemen, produce moves and gets wasted, squeezing the farmer. 
+
+In the absence of strong cold chain logistics, fresh produce would get lost or never reach. In an extremely unreliable supply chain at scale, local grocers and mandis sprung up all across the country. 
+
+For such a large market, it operates largely on trust and limited organization. To understand its scale, even capturing 1% of this market would mean making a $4Bn revenue. 
+
+BigBasket was in a big, but tough, business. Masters of ScaleBigBasket grew considerably in its first 5 years, growing from a GMV of $4MM to $200MM in 2016. 
+
+Raising more than $220MM along the way, the company had scaled to 4MM users. While expanding to more than 25 cities, the company focused on F&V to hook customers. Fruits and vegetables formed 45% of the company's revenue, and it was key in defining the company's reliability. 
+
+Customers trusted companies that delivered F&V reliably and added on other products to increase their basket size. FMCG and staples made up the rest of the 50%.
+
+The core strength of BB was its strong, in-house delivery network, that it had built over 5 years. Given freshness, its logistics network needed to deliver products within 2 days and were almost at the whim of delivery men. 
+
+Ensuring they were available round the clock would prove to be a big challenge, and BigBasket worked to retain them. As the company scaled, it began to see significant benefits. 
+
+As I elaborated on my piece on BigBasket's economies of scale, becoming big allows significant margin improvement. Additionally, it also allows BigBasket to price better than a local grocer, who has to incorporate wastage risk due to small inventory holdings. 
+
+The scale allowed BigBasket to increase its margins from 10% to 30%, as it began to purchase directly from the source and began holding inventory. This actually implied a net revenue increase from $400K to $60MM, a substantial increase from the company's small base. 
+
+But winter was coming.Perishable GoodsA significant number of players had cropped up by 2016 that were targeting the grocery/hyperlocal market.
+
+Localbanya, PepperTap, BigBasket, TinyOwl and a small startup called Swiggy were vying for dominance in delivery and groceries. After raising almost $100MM amongst them from marquee investors, PepperTap and TinyOwl began to face trouble. 
+
+The companies would end up burning significant capital and perish, just like the goods they were delivering. 
+
+More than 200 companies shuttered in 2016, with most being hyperlocal companies with unsustainable unit economics. Despite having raised $200MM, BigBasket too went on to raise venture debt to remain safe.
+
+A company that would struggle in the winter would be Grofers. It continued to keep changing its model without scaling significantly, despite having raised as much BigBasket.
+
+With common investors in BigBasket and Grofers, they even began to push for a BigBasket acquisition of Grofers. Grofers held on, while BigBasket went on to raise further capital.
+
+Grofers would almost perish, but while BigBasket did not see it as much of a competitor, a much-feared giant would soon begin selling groceries. Selling ChuranAmazon would throw its hat into the grocery ring market in 2016, signalling real intent in capturing the market. 
+
+Mocked by (now erstwhile) CEO of Flipkart Binny Bansal for selling "churan", Amazon would be right on point in identifying it as critical to its strategy. 2017 would, ironically after a funding winter, be the beginning of the "battle for the doorstep". 
+
+The doorstep battle, which I had elaborated about a year ago, made a lot of sense for Amazon. Amazon was in the business of selling low frequency, high ticket items to consumers, and hence visited the doorstep infrequently.
+
+BigBasket, on the other hand, through weekly grocery deliveries, was visiting frequent customers almost 50 times. Swiggy could even be visiting customers once in two days. 
+
+Owning the high-frequency doorstep relationship was critical, and churan was the way to go. Haar Kar...Amazon's entry, which would further support its Prime program, would push BigBasket harder than before. After years of incredible growth, BigBasket would grow "only"  in 2017. Mr Bansal would soon be eating the proverbial churan, as BigBasket would struggle against both the well equipped e-retail giants. Amazon offered to buyout , but the company would raise  from an Amazon beater, Alibaba, to bring know-how to the table. Owning more than 40% of the company, BigBasket had raised $600MM in total, with a valuation of ~$900MM. While this looks like a success, looking deeper reveals the truth about value creation. With $300MM of "incremental" value created with  of capital burnt, BigBasket was clearly struggling. BigBasket was very capital inefficient, creating 1.5x it's total raise. Founders would be left with very little stake in the company. PayTm mall, through Alibaba, was expected to completely buyout BigBasket, which would make it almost a distress sale.Jeetne Waale Ko...While BigBasket's acquisition may have been a win for their early investors, it could have been the perish of a large, focused e-commerce retailer.
+
+Despite the significant pressure due to Amazon, the company would push hard to build its moat. While Amazon had a huge customer base, what it didn't have was the elaborate grocery supply chain network that BigBasket had built.The company's fundamentals would begin to show their strength. From an average annual spend of $60 per customer in 2016, the company would scale to a $125 average spend in 2018. While gross margins were lower at 15%, it had now increased to 35%.
+
+BigBasket would thus be able to make $60 of gross margin from a customer in one year. If it acquired a customer for less than $60, it would be able to break even on a unit level. With the focus on widening its product base, and targeting the urban middle class, BB would likely be able to acquire customers for cheap.
+
+In line with its razor-sharp focus on faster delivery, the company would acquire Pune based Raincan and other startups (as an aside, Raincan is in my anti-portfolio). The companies were acquired for their technology and city-based networks. City markets are mind-bogglingly big, with Pune itself being larger than a few billion dollars.
+
+Rebranding the daily milk and grocery as BBDaily, the company's growth engine would begin whirring. Baazigar Kehte HainWith the inventory based infrastructure, coupled with last mile logistics under BBDaily, it would be transformational for the company.
+
+From once a week, BigBasket would now arrive at your doorstep daily. It now became a true subscription business, piloting with 20K subscriptions. Estimates peg the current subscriber base for BBDaily at north of 500K subscriptions.
+
+BBDaily and its acquisitions would help scale the company's revenue from 2,000Cr to 6,000Cr. With 50% growth b/w 17 and 18, 3x growth between FY18 and FY19 would be a reversion to the previous growth rates of the company.
+
+BigBasket's grocery focus, which is ironically a "large niche" in the retail segment, would reap dividends. Its website and products would be better stocked than its competitors, delivery more prompt, and subscription would result in tight customer lock in.While people still find issues with BigBasket, these are growing pains that will be ironed out. There are significant inefficiencies that I had elaborated in a piece, which signal potential to improve margins. 
+
+Through white labelled products, the company can improve margin. Through subscriptions, customers will spend more regularly. Through wider product variety, the average customer spend will increase. I expect a large portion of BB's 8 MM customers to convert to BB Daily customers. Customer acquisition costs will fall dramatically.
+
+With the fundraise of $150MM putting the company's valuation north of a billion dollars, the company is moving towards profitability. If it can now scale without additional capital, and through its own profits, it could rapidly begin to create value.
+
+Imagine scaling to a $6Bn revenue without additional capital. The company would likely be valued at $6Bn, with $750MM of capital. Suddenly, the company has now created $5.25Bn of additional value. 
+
+Like its brand ambassador's movie Baazigar, BigBasket looks likely to win big after losing big.I had earlier talked about how what Cure.Fit really is, and how the company is making a big bet on the health/fitness trend. The company raised $75MM this week, as a follow up to its last round, to continue acquiring smaller companies. 
+
+I still remain fairly sceptical about the valuation of the company, and its PE-like strategy as a startup to scale. Cure.fit will have to significantly over-deliver and structure the company well, so that it does not have culture/growing pains. , Can India Build to Sell to The World?, Last week, Spa and Salon SaaS startup Zenoti raised $50MM from Tiger Global, hot on marketing automation startup CleverTap's $26MM and dental software CareStack's $16MM.To Infy and BeyondIndia's Renaissance in the 2000s was driven by India's robust IT services stack, driven by Indian powerhouses Infosys, Wipro and Tata Consultancy Services. 
+
+Infosys, India's first tech "unicorn" had humble beginnings as a startup in Pune. Infy pioneered providing IT services to western clients, leveraging India's technical talent to sell to the world. 
+
+The core value proposition that Infosys and its peers offered was good quality of technical talent to companies, at a much lower cost. Known more technically as labour arbitrage or pejoratively as body shopping, western clients outsourced technical work to these Indian powerhouses. 
+
+IT services would build on India's favourable labour arbitrage, and over 3 decades create $300Bn+ of market value in India alone. Infosys' choice of shifting its headquarters to Bangalore, coupled with favourable state regulations, would make Bangalore a hub for even more innovation. 
+
+Being "Bangalored" would now mean starting up. Engineer, not DoctorThe IT major's rapid business building would create a large requirement for engineers in the country. 
+
+Engineering colleges would rapidly spruce up to fill the demand, and top tier engineering colleges would become even more valuable. If you're wondering why most of the people around you are engineers, think to Infy and beyond.
+
+India has 3MM+ engineers joining the workforce every year. Over the last 10 years, assuming this happened every year, there are more than 30MM engineers in the workforce - almost 10% of the entire urban population. 
+
+This is a huge percentage of the workforce, and it has a lot to do with India's growth over the last three decades. Aspirational parents would coach their children to become an engineer, a large number would move to the large IT firms or the Indian outposts of large US tech companies. This would be the breeding ground of a new kind of talent, hungry to build global companies. Recipe for TalentInfosys and the IT companies would provide significant exposure to talented engineers.
+
+On the technical side, they would be exposed to problems faced by Western companies. These would be useful for understanding in advance what problems would be faced by Indian companies as well a few years down the line. 
+
+On the business side, the exposure would be to how much value the IT services companies created for their clients. From building client relationships to developing long term contracts, the client-facing experience would give a sales playbook for the future.
+
+A high-quality talent base in an economy with a GDP per capita of ~$1,000, compared to the US GDP per capita of $45,000 in 2007 would show how advantageous India was from a labour perspective. 
+
+Combined with talent and a looming recession, India would soon see the second wave of software companies.Service as a SoftwareThe Great Recession shocked the global economy, and as the world began to cut costs, Indian engineers began to build cost-effective solutions to the problems they had been exposed earlier. 
+
+2008 to 2010 would thus result in the creation of multiple large Indian SaaS startups (software as a service). Druva (2008), Knowlarity (2009), Wingify (2009),  HackerRank (2009), Freshworks (2010). These 5 companies raised a total of more than $600MM, with Wingify completely bootstrapped. 
+
+Freshworks, in particular, was inspired and started by, engineers from the first mover in the SaaS space. Zoho, which started a decade earlier, completely bootstrapping its way to pioneer Build in India, sell to the world. 
+
+The use cases were diverse - security, telephony, marketing automation, competitive programming and customer relationship management. 
+
+Perhaps inspired by the problems seen in the US, these companies sold primarily to the US market. With US clients paying in dollars and strong Indian talent paid in rupees, the companies were able to scale rapidly - and profitably. 
+
+India had finally begun to build software products, not just services. Fast FollowersInspired by the rapid successes of the "Recession" cohort, SaaS companies quickly began springing up. Just like the initial IT wave was driven by Bangalore, Hyderabad and Pune - these companies would necessarily spring up in these cities. Agile CRM (HYD), Exotel (BLR), MindTickle (PNQ) were examples of companies that built quickly to capitalize on the growing talent pool that increasingly thought global.
+
+Use cases became even more diverse. Human capital (belong), App Testing (Browserstack), social media analytics (unmetric). Product companies would iterate and build prototypes in India, generate enough traction, and shift to the US.
+
+It became increasingly common for Indian companies to move base to Silicon Valley to become truly "global", increasing potential and valuation multiples by virtue of the cross border transportation. Software look and feel, along with the experience, would be world class. 
+
+Indian products had arrived. The Level Playground Called the InternetThe growing success of Indian products should be attributed to the growth of the internet.
+
+Just like technology had made it easier for Infosys to staff Indian engineers to remotely fix problems, the internet solved a very big problem for Indian product companies. 
+
+Trust, through sales.
+
+While India had got the tag (good or bad) on having capable software engineers, few people were willing to trust Indian product makers. In the late 2000s, when you would need someone to go "onshore" and close a sale, it would be very hard for Indian engineers and product developers to compete with a western counterpart. 
+
+With the 2010s allowing people to buy software at the push of a button, having to go onshore became increasingly rare, especially if the products were of smaller ticket sizes like $100/month. The shift rapidly allowed Indian companies to scale, as it mattered less who built the product, and more on how it performed. 
+
+With top-notch technical skills, and not requiring to sell face to face, Indian products were becoming viable global businesses. Build in India to Sell to the WorldSaaS investments, including those focused on Artificial Intelligence, raised close to ~$800MM over the last year. 
+
+Given India's strong history as a technology provider, as well as the right ingredients of talent, education and tech companies, it will be strongly positioned to build products for the world.
+
+With equally, if not more qualified, software engineers building products, Indian products can compete on pricing with US counterparts. With a predominantly global and democratic world view, Indian companies could compete in user experience with Chinese counterparts. The sheer volume of the engineering talent pool would supersede Israeli and European startups if competing on scale. 
+
+Like the three companies Zenoti, CareStack and CleverTap, niche use cases will be attractive markets to build for. You would expect companies to build for narrow use cases, as new parts of the economy (like dentists) begin to onboard technology solutions. 
+
+Overall, India is well positioned to capitalize on a strong foundation that IT and SaaS companies have built over the years. With the know-how and path setting, along with global successes like Zoho, SaaS entrepreneurs have all the reasons to be optimistic. 
+
+With all the ingredients in place, India could build to sell to the world. I had elaborated on how fintech in India could be in for a great year and have been bullish about the sector. For the first time ever, India unseated startup giant China as a fintech funding hub last year. 
+
+This is a significant achievement, despite China struggling this year. I expect it to continue moving positively, as India continues to innovate on fintech. , Is FinTech InCred Really Incredible?, Last week, fintech enabled lending firm InCred raised $100MM, marking a sizable Series A for a company that is 3 years old. Big Bank BucksLooking to setup education loan lender SoFi's equivalent in India, ex Deutsche Bank banker Bhupinder Singh quit his job to setup InCred. 
+
+Like most startup founders, Mr Singh set out to disrupt an already existing market (education loans) with technology (data-driven creditworthiness). Unlike most startup founders, Mr Singh was able to rope in incredibly influential people to back a fledgeling firm. While most startups start with a small amount of capital, Mr Singh's influence and track record allowed him something unusual.
+
+InCred started with a seed round of $75MM, something most big startups would raise after years of operations.
+
+InCred's big bang start saw participation from former Deutsche Bank CEO Anshu Jain, who committed 10% of the fundraise. Mr Singh himself committed a significant amount of capital to the company. 
+
+The new age fintech firm had started with all the necessary finances. Lend Me Your YearsThe initial focus of InCred, which qualifies as a Non-Banking Financial Company (NBFC), was the educational loan market. 
+
+Education in India has largely been subsidized by the government, recent decades have seen a significant uptick in quality private colleges. As fees in Indian educational institutions begin to rise, educational loans will become more relevant for students looking for quality education. 
+
+While a lot of people, usually parents, spend a significant amount of their savings on their children's education, the concept of taking loans for education is still not widespread.
+
+At a $10Bn portfolio size, the education loan base would generate ~$1Bn on interest every year. While this number grew slightly slowly last year, it is attractive to new players who are inspired by another mammoth market. Safety in NumbersStudent loans tend to be "safer" as they are linked to professional success and the quality of the education.
+
+Defining creditworthiness of a loan seeker is helped by the data of the institution that the seeker studies from. Non-performing assets (NPAs) in the form of education loans are 2% lower than the benchmark 11.5%. 
+
+It is little wonder that the educational loan market is dominated by public sector banks.
+
+The real potential, though, is visible in the $1.5Tn (yes) student loan base in the US, more than 100x the Indian market.
+
+Most commentators claim that the US education loan industry pressures millions of professionals for years. In this excellent Netflix commentary on US student loans, it is revealing to see how life-altering educational loans are turning out to be. 
+
+But the fact remains, it has the potential to be a massive market, with a manageable creditworthiness model. Look Ma, No BanksMost public sector banks are notorious for being bureaucratic to deal with.
+
+In technical parlance, that is poor customer experience. InCred's business model is to be a user-friendly lender. It disburses loans in an efficient manner while assessing the creditworthiness of users using data. 
+
+In its first year, InCred disbursed INR 400 Cr ($70MM) to 2500 customers, or 16 lakh INR ($20K) on average. While InCred began with a focus on educational loans, the company expanded quickly into the small business loan and housing loan segment. 
+
+In the previous piece on Capital Float, I had expanded on how the small to medium business segment is a massive opportunity for financing. Due to archaic lending practices, businesses still lack access to capital, and it is a $200Bn loan base in India. 
+
+House financing is a similarly sized opportunity, a $250Bn loan base that is majorly served by public sector banks. Driven by housing demand, it has grown by 15% or more every year. 
+
+Driven by these larger markets, InCred would end up disbursing 1000Cr ($140MM) to 6K customers by end of 2017, or ~$10MM for each month of its existence. 
+
+The run for the banks was on.Rapid Lend GrabInCred was not the only one eyeing the increase loan pie for the Indian consumer or business.Apart from Capital Float, multiple players such as Aye Finance, Lending Kart and Faircent sprung up to the challenge for providing credit. The reason for going aggressively after the consumer was because of the business model of lending. 
+
+Loans are products that result in long term commitments from consumers. Once a customer is locked into a loan, if the customer continues to pay, it is usually year(s) before the consumer will change the loan provider. This implies a significant lifetime value for customers who are locked in. 
+
+For example, a 35L ($60K) loan with a 10% interest for 3 years is $18K of interest revenue lifetime value. With high costs of "switching", it was imperative for companies to acquire consumers fast, and lock them into their lending systems. 
+
+The loan portfolio for NBFCs on an overall basis thus grew 20% in 2018, but it would be a precursor to a winter of distress. Risk Losing AppetiteLate 2018 would be winter for financial services firms, especially NBFCs. 
+
+Exactly a decade after Lehman Brothers went down under, IL&FS, an infrastructure leasing NBFC defaulted on its loan payments to Indian banks. The company, over a lifetime of financing infrastructure project, had racked up debt of INR 91,000 Cr ($14Bn) with a debt to equity ratio of 19. 
+
+Even in the over-leveraged world of NBFCs, IL&FS was a big outlier, having a D/E ratio of 3x. The IL&FS crisis, just like the one at Lehman brothers, began to squeeze the entire NBFC industry.
+
+Liquidity, or availability of capital, was drastically squeezed as capital providers became wary of NBFCs.
+
+For NBFCs to disburse loans, they need to raise capital to disburse as by definition they do not take deposits. The cost of capital grew significantly. From a cost of capital of 8.3%, cost of financing for NBFCs grew to 9.5% due to the IL&FS crisis. 
+
+The liquidity crunch would make business expensive for players like InCred. Working CapitalPlayers like InCred would have to raise capital to keep lending or they would stop growing.
+
+The unit economics of loans would be as follows. Assuming your cost of capital is 8.5% and you are able to disburse a loan for 16%, the "net margin" you make is 7.5% on every INR of loan you disburse. Most NBFCs have a debt to equity ratio of 5x, implying that they can raise 5 INR of debt for 1 INR of equity raised. 
+
+Lending off the debt they raise is known as balance sheet lending, the reason why InCred is raising capital.
+
+For the total capital raised till date of $175MM, InCred can then likely disburse loans of 5*175 of $875MM off its balance sheet. Credit for WinningAssuming that all the equity capital it had raised till 2018 end ($75MM) is now utilized, it would have likely disbursed 75*5 = $375MM of loans till 2018 end. This is a ~2.5x growth from the $140MM disbursed till 2017, as we noted earlier. 
+
+Let's assume an average lending rate of 18%, based on multiple NBFC rates. The interest margin, as we defined earlier, would be 18-9.5, or 8.5%. Thus, for $375MM of loans, the interest revenue would be 375*0.18 or $67.5MM, while the margin (net interest) would be $32MM. InCred is thus likely a $70MM business.
+
+If InCred disburses a loan of INR 20L, or $30K, it is able to generate net interest of 9.5*30 = $3K per year. For a 3 year lifetime, the company makes $9K per customer. If the business is able to keep customer acquisition cost below $3K, or 1/3rd of LTV, it is a healthy business.
+
+Assuming it has raised $100MM for 20%, the business is likely valued at 8x revenue. In terms of the loan book for ~$400MM, the business is valued at 1.25x the loan. This is in line with the valuation of Social Finance, the US lending company.
+
+Given the recent equity raise, the future looks bright for InCred. Having diversified into multiple loan products, the company also has a full portfolio to get exposure to a larger set of the economy. It is also protected in case of a downturn in one of the segments. 
+
+Despite troubled market conditions, InCred looks like it is beginning an incredible run, and its success will spur the economy.After covering the impact of TikTok last week, the app was expectedly un-banned with more restrictions being applied to the platform. The app continued to be downloaded through other means, as its popularity remains unabated. 
+
+This week's request - if you have worked with/helped scale a media property, please reach out to me. Would love to get deeper insights. , Why Scooter Rentals is Hot ft. Bounce, Last week, scooter rental company Bounce raised $3MM in debt, taking its total fundraising to $25MM, hot on the heels of Ola's $100MM capital deployment into Bounce's competitor Vogo. Surprising Scooter StatisticsIndia is a densely populated country, and given the limitations of space, roads obey the same laws of density. 
+
+India's road network is one of the densest per square km in the world, standing at 1.70km of road per square km of land, more than China and the US (surprised?). If you look at road length per 1000 people, India stands at 4.63km, but the US far outstrips India here with 20 km per 1000 people. 
+
+For India's thin and short (i.e. congested) roads, the solution had to be more compact than a massive car, that works well in the US. The answer was the ubiquitous scooter/scooty, or what is called an "Activa", regardless of brand (well done, Honda)
+
+In one of the first ranks that India should be proud of, India has the largest two-wheeler market in the world. It is even larger than China's 16MM, where India sells 17MM+ two-wheelers every year. 
+
+For the densely populated cities and roads, bikes/scooters are a saviour to get around. Lasting the Last MileIndia's narrow lanes and congested roads cover most of the large cities or small towns. There are thus a lot of areas that become inaccessible to cars or four wheelers. 
+
+Covering the "last mile", becomes a job for scooters or bicycles, that can access these places. 
+
+It is little wonder that scooter trips are more in number than auto and taxi trips combined. In the absence of public transport for folks who are in the lower income segment, or are looking for an additional means of personal transport, the scooter is the goto choice. 
+
+Scooters thus don't need any customer education, most people would have definitely driven a scooter, but not necessarily a car. If available, people would drive a scooter.
+
+Providing people quick access to scooters would, therefore, be a pain point to solve.Rent Everything and Own NothingSince Uber wildly popularized the idea of having your own cab without owning it, the "sharing economy" has become the way to provide people access to assets or services. 
+
+Uber, Ola, Airbnb, WeWork are all built on the tenets of the access economy. The rationale for why sharing made economic sense is better utilization of resources. Assets, instead of being owned by individuals who didn't use them productively, would be owned by companies who rented it for a fee. 
+
+Just like cars, houses or workspaces, the same argument would be applied to scooters. While India has been using scooters for decades, sharing scooters would only be possible at small, localized scales (e.g. family/friends)
+
+With the advent of the internet and ubiquitous access through smartphones, scooters could be rented by going to their location and taking it for a ride.
+
+The same logic could also be applied to bicycles, couldn't it?Flying Electric Birds?In an earlier piece on bicycle sharing, I had outlined why the bike-sharing market was picking up in a similar way last year, with billions being poured into the market. US-based Bird became a unicorn in the process. 
+
+ofo raised an incredible $1Bn in China for the bike sharing economy, but filed for bankruptcy late last year. The reasons were apparent, as I had earlier elucidated - the economics don't work. 
+
+Additionally, in India, the problem of the 4Cs plagues bicycles - connectivity, cost, culture and climate.
+
+Connectivity for bikes is poor in India, with roads largely lacking the infrastructure for bikes while China/US have largely upgraded their infrastructure for bikes. In terms of cost, while usage maybe cheap, the upfront deposit that is to be paid in India is higher due to the fear of theft, as insurance.
+
+Culturally, bikes were discarded by Indians as cars are status symbols (and more comfortable), it is going to a definite change to get people cycling on the road. As a tropical climate, versus SF/Shangai's moderately temperate climate, heat and rain can make cycling a task (no wonder Bangalore and Pune are the two best options!).
+
+As you would realize, scooters don't have the first three problems and solve for climate by just being faster and requiring lesser effort. Bouncing Around is in VOGO-eGiven the fact that scooter rentals were the next logical step for making scooter more accessible, VOGO and Bounce took off in late 2017. 
+
+Bounce has been around for 4-5 years, and it appeared much earlier to the party that was to start in 2018. With bicycle rental companies not doing well, and electric scooter companies like Bird becoming unicorns, Indian firms would follow suit. 
+
+Both VOGO and Bounce would end up raising their first rounds of capital, to help win the nascent $300MM two-wheeler rental market. 
+
+The capital would follow quickly, with both VOGO and Bounce raising $15MM+ in quick succession. VOGO would also end up getting a commitment of $100MM from Ola, which would help it build supply for scooters.
+
+The fundraising would help each company add more scooters to its fleet (supply) and acquiring more customers (demand). As matchmakers between supply and demand, these companies would need to solve both simultaneously. 
+
+But how would they make money?Elusive EconomicsThe business model for these companies would be straightforward. For each ride, users would be charged while the scooter rental companies would pay for fuel and maintenance. 
+
+Unlike Uber, where drivers need to be paid for each ride, a scooter rental company would use the rider itself to drive the vehicle around. In terms of economics, each ride would be charged 5 INR/km, while the cost in terms of fuel/maintenance would 4 INR/km.
+
+Every ride would, therefore, result in 1 INR/km of gross margin. Looking at VOGO's P&L, in 2017-18, the company did 19 MM INR of revenue or ~3MM km of rides.
+
+For ~5K scooters, that is 600Km/scooter per year. Assuming 6 Km/ride, that would be 100 rides/scooter per year or 1 ride in 3 days. That would be ~500K rides/year. For 100K + riders as VOGO lists, that is 5 rides/year per customer. 
+
+In terms of the customer acquisition cost, let's assume the cost of acquisition is 100INR. As the gross margin is 1 INR, it would need 100Kms of rides to break even. For 6Kms/ride, it would need at least ~16 rides to break even - or 3 years to break even.
+
+For scooter rentals to become profitable on a per customer basis, usage by customers would have to become at least 3x. By solving for supply first, the companies would now have to focus on creating demand. Dreaming of Electric SheepOne of the biggest issues with bicycles was them being stolen, broken or dumped. Maintenance and management of these vehicles were hard and contributed to the demise of ofo. For scooters, though, getting broken or dumped would be far more difficult - and managing stealing would be easier. In terms of scale, therefore, reducing maintenance cost would be a big win for these companies. 
+
+Going electric would dramatically improve maintenance.
+
+While the Indian government continues to push on making electric vehicles common, which will make electric scooters more necessary, they are easier to manage.
+
+Petrol/diesel vehicles need fuel and more maintenance than an electric vehicle. An electric vehicle could be left to charge at its dock and will reduce management costs. I would also reckon the cost per mile would be brought down. 
+
+It is little wonder the companies are looking at electric scooters as the next step ahead. If they have to scale, they have to bring down the cost per ride, while simultaneously increasing usage and utilization. 
+
+If the hot scooter rental market succeeds, it would be a game-changer for Indian transport.More than 8 months ago I had predicted that Dream11 could potentially be a unicorn, and it happened last week. I am increasingly bullish about the company and the fantasy space, as it taps into the need for people making money on predictions (for some people this need may be fulfilled through a profession called "venture capital")
+
+This week's request - if you have experience, or are connected, with manufacturing foam/mattresses, please reach out to me. In Other News: Zoom's Zoom to $16BnIn Other News: Video communications software company Zoom debuted on the NASDAQ, with an 81% increase in stock price that left its own CEO in disbelief. 
+
+The company is a story of the "American Dream", a Chinese immigrant starting a tech company that has made it in the big league. Unlike the head-scratching unprofitability of Lyft and Uber, Zoom is a profitable tech unicorn that has made it so attractive to Wall Street. 
+
+An ex-Ciso WebEx employee, Zoom's founder Eric Yuan focused on making video conferencing less painful. In the process, he has created a $16Bn company, that is also profitable and is looking to connect the business world seamlessly. 
+
+With a lot of goodwill due to the frugality and humility of the founder, Zoom will be a company to watch over the next many years. , Why China is in India's Startup Goldrush, Last week, bite-sized video content sharing platform TikTok, from China's ByteDance, was banned for new downloads in India.Hidden DragonOver the past four decades, China has risen from poverty to become the "second" superpower of the world. 
+
+China is now, on a nominal basis, a $12Tn economy, $7Tn short of the United States. On a purchasing power basis, the Chinese economy is the largest in the world. In 1980, China was 1/10th the size of the US economy, today it is more than 60%.
+
+The years of incredible growth in China have also resulted in the creation of wealth, and globally influential technology companies.
+
+Baidu, Alibaba and Tencent created more than $1Tn of market value and have changed the landscape of technology in China and the world. 
+
+These three (known as BAT) have influenced AI, data, e-commerce, fintech, logistics, content - not only through their own companies but also through their investments. Tencent, the maker of the everything platform WeChat, has invested in the most Chinese unicorns, beating even "traditional" VC firms.
+
+These three firms contribute to investing in startups in as big a way as their own companies. "Smaller" firms like Xiaomi have also expanded aggressively, creating an ecosystem through intelligent investing and acquisitions.
+
+But after forty years of breathless growth, the Chinese technology economy is finally starting to show signs of slowing down.Other's Grass is Always GreenerChina's economic slowdown, although on a large base, strongly influences the strategies of technology companies and their investing strategies. 
+
+The slowdown in consumption impacts the financial health of the Chinese technology giants, who now have lesser capital to "play with". With lesser capital, Chinese corporate giants need to pursue more efficient growth strategies which provide better return for capital.
+
+The tech cash crunch is already beginning to show warning signs, with funds struggling to raise capital, and startups facing the same fate. Chinese startup funding has dropped drastically in 2018, with the last quarter seeing $17Bn of funding, almost half of Q2's $34Bn. 
+
+There are strong fundamental reasons for this. 
+
+China's slowing consumption is driving slower value creation, and hence the opportunities for new companies to arise and startup. After growing 2x from 2008 to 2013, the number of internet users has grown only 30% from 2013 to 2018. This was going to happen, as the number of people in China is finite, and they already have 800MM internet users. To top all this, the population is ageing. 
+
+Slowing consumption, flatlining internet users and an ageing population are not as attractive for new startups and investments. With all the capital created over four decades, China needs to look for an attractive market. Where would you find the opposite?
+
+India, of course. Looking Slightly WestIndia is the only country outside China to have a trillion people, and will soon have people than China. 
+
+Despite fuzzy GDP numbers, it is the fastest growing trillion dollar economy. Only 20% of the population is online. It has the largest population of millennials (ergo, young people). Faster growing, young, with exploding internet potential. 
+
+India is like China looking at itself 7 years ago. 
+
+205MM Indians are also coming online for the first time and will experience the internet as early users did in the 90s. They will communicate, consume content and buy online, in ways that we will soon see evolve. 
+
+Numerous startups have grown rapidly to take advantage of this growth, and India now has 26 $1Bn+ companies. India added 16 last year alone, only 9 shy of China's 25 - which is a far larger and more developed ecosystem. 
+
+Immense value creation is occurring, resulting in $38Bn of FDI inflows in India last year - pipping even China in terms of investment.
+
+To its credit, China has been creating the foundations to capitalize. Hindi-Chini BhaiIn 2015, one of the BAT trinity, Alibaba, made its maiden investment in One97's PayTm.
+
+Alibaba was closely followed by Ola's fundraising from China's cab giant Didi Chuxing. Didi Chuxing itself was created from Kuaidi Dache and Didi Dache, which were backed by Alibaba and Tencent respectively, so Ola was indirectly funded by one of the BAT.
+
+After a slow start, Chinese's investors put in $660MM in 2016, $2Bn in 2017 and a record-breaking $5.6Bn in 2018 - which outpaced investors from any other country. Tencent, Alibaba, Xiaomi or a combination would end up as part of almost every Indian unicorn.
+
+Flipkart, Snapdeal, Dream11, Ola, PayTm, OYO, Zomato, First Cry, Big Basket, BYJU's, Swiggy would all receive capital from one or more Chinese investors. 
+
+Chinese companies would also look to capitalize on the growing Indian story directly. Xiaomi would make a big push in India to become the largest smartphone maker, pipping Samsung. 
+
+But the ones that would make the biggest splash wouldn't be the BAT, but social apps.
+
+ByteDance's two apps TikTok and Helo would rocket in 2018 to the top of the Indian apps chart. TikTok would acquire 200MM users in India, while Helo would add 20MM. PUBG, ShareIt and Clash of Kings are now household names but Made with Love in China. 
+
+China was clearly looking at India for growth, and for good reason.Imparting China's 3CsBeing an Asian demographic, India has a lot more similarities to China than the West.
+
+China pioneered the concept of the "super-app", the one stop shop for everything. WeChat would be the flagbearer of this concept. The same app would be used for messaging, payments, transport, travel, food. This would explain why Tencent (WeChat's owner) would invest in a cab aggregator like Didi Chuxing. 
+
+This was in direct contradiction with "individual apps" for everything in the West. One would have individual apps for communication, payments, travel, food. 
+
+Over time, Western apps (e.g. Facebook's Whatsapp) have tried to evolve into a one stop shop (e.g. Tencent's WeChat) rather than the reverse. This is inspired at the core by the 3C strategy. 
+
+Community, content and commerce. Practising Best PracticesThese best practices translate into the path most Chinese giants have taken.
+
+The order of creating value is as follows. Build a strong community, provide engaging content and enable transactions on the same platform.
+
+Having executed this playbook in an Asian demographic in China, Chinese companies want to replicate the same in the Asian demographic in India. 
+
+You can now see why PayTm is trying hard with PayTm mall, after building a "community" (i.e. user base) through its payments ecosystem. Think Alibaba. 
+
+A lot of Chinese investors have therefore brought in thoughtful capital that has helped bring learnings. These experiences have helped and coached Indian entrepreneurs to scale well, within the constraints of the Indian ecosystem. It is the same strategy that ByteDance is employing with TikTok, by creating a community (scale) and engaging it content (retain), with the final step being commerce (monetize). This focus on getting scale first and bothering later has resulted in myriad implications.Disasters of ScaleWhile Chinese companies have helped Indian companies scale or scaled themselves, the growth at all costs has resulted in deeper issues to solve.
+
+The issues are nowhere clearer than in TikTok, which has added more than 100MM users in the first quarter of 2019, beating every other app in the market by miles. The video-sharing app, through its byte sized content, also has no controls for the kind of content that is shared. 
+
+Without these checks in place, highly inappropriate content has spawned rapidly on the platform. Users security has been threatened, especially if they are minors. 
+
+This is not the first time this has happened with a Chinese app, especially TikTok. With strong censorship in place in China, the app was similarly in the docket in Indonesia. The company had to set up a censoring team after being banned in Indonesia.  
+
+With a much larger base in India, and having unregulated access to Indian users, these apps have scaled wildly - with disastrous implications for users and themselves. 
+
+With the ban in place for TikTok, some commentators believe TikTok is being singled out. The claim is that this is only more of the same, being brought earlier by US counterparts such as Whatsapp or Facebook.
+
+Comparing TikTok, which has interactive videos at scale, to relatively closed communities like Whatsapp or Facebook is not correct. TikTok could scale problematic content much faster and wider.Managing Gold DiggersThe investments by Chinese companies and investors are largely positive for the Indian ecosystem, as it helps Indian companies scale with relevant know-how.
+
+India is seen as a gold mine, and there is a scramble for Indian users. China provides both capital/know-how through investments and exits, having "been there, done that". Similarly, Chinese companies are looking to acquire and monetize India's new internet users. Despite the ban, ByteDance committed $1Bn to India, signalling how positively it perceives the market. 
+
+Managing this strong interest is critical, and it has to be done through a balanced mix of competition and regulation.
+
+For example, the scale that Chinese apps have achieved could be curbed through competition. I had highlighted how ShareChat faces a complex path ahead due to TikTok's blistering rise, and it could capitalize on TikTok's present problems. While it may not have as deep pockets as ByteDance, it has local advantage.
+
+I think the regulations in place protecting user privacy and data are also relevant. India is still to get sophisticated on the importance of both, and we must be careful before exposing users to sophisticated data-harnessing applications. 
+
+Overall, China's involvement is likely going to benefit both Indian entrepreneurs and consumers. If done right, it could have a widely positive impact on the Indian ecosystem.
+
+China could play a defining role in helping turn India into an ecosystem that rivals China itself. The newsletter landing up in your "Promotions" tab bugbear continues, and I think there is finally a solution. Please add my email address to your contacts by hovering over my display picture on the top left of the newsletter email - as described here. 
+
+This week's request - if you have experience with designing content, especially a newsletter, please reach out to me.  In Other News: Uber to Go PublicIn Other News: Uber filed for an IPO, attempting to raise at a valuation of $100Bn, making it the largest tech IPO ever.
+
+The company is looking to raise $10Bn and is expected to make multi-billionaires and millionaires, especially its former CEO Travis Kalanick. It's intriguing to note that Mr. Kalanick vehemently opposed the decision to go public. 
+
+Uber reported revenues of $11Bn, and net losses of a very small $1.85MM. A lot of divestitures and asset sales have resulted in cleaning up the P&L of the company. The company has 91MM monthly active users, with each user taking an average of 5 trips each month.
+
+Uber is positioning itself as the "Amazon of transportation", covering everything that can get anyone/thing from one place to another. India is an extremely important market for Uber, being mentioned repeatedly in the filing. 
+
+After Lyft's IPO and an 11% fall, it will be intriguing to see how Uber's IPO pans out.  , The Making of The Viral Fever, Last week, content network The Viral Fever (TVF) released the second season of the entertaining Tripling under TVFPlay. Consuming Chillies Long before starting TVF, founder Arunabh Kumar was preparing to be what most of us end up being.
+
+Engineers, of course. 
+
+Becoming an engineer and joining IIT Kharagpur, Mr.Kumar thought that electrical engineering wouldn't be his true calling. After walking out of his first R&D job, he started cold calling multiple production houses to an assistant director. More out of kindness to a new rookie, a chief assistant director would end up giving him a meeting. 
+
+The meeting would be with Shah Rukh Khan's Red Chillies Entertainment, and more specifically director Farah Khan. After being quizzed on what an IITian with no directorial background was doing in a production house, Kumar famously blurted that he would Farah Khan's "*****"
+
+Perhaps inspired by Kumar's self-deprecation, Red Chillies gave him his first break and he served as an assistant director in Deepika Padukone's debut Om Shanti Om.
+
+Creating short films and content, while attempting to get a break for his content, Kumar would also build a fan in Anurag Kashyap. 
+
+In 2010, Mr Kumar would start off TVF Media LabsRevenge is a Story Well ToldTVF Media labs would serve as the organization that captured Kumar's creative output. An IITian who decided to take the path "less taken" would soon attract people cut from the same cloth. 
+
+Common friends Amit Golani (IIT B), Deepak Mishra (IIT B), college junior Biswapati Sarkar (IIT KGP) would be united by their common love for storytelling, and their aversion to engineering. 
+
+The group planned to create content that appealed to an underserved audience - young internet savvy Indian millennials in the age group 18-35. The thesis was that this group of individuals was underserved and had to rely on "low quality" Bollywood content, or imports from the West such as Seinfeld or F.R.I.E.N.D.S.
+
+Pitching this thesis to MTV, the group's content was rejected. Kumar said that MTV said he was "delusional", and nobody would watch his content.
+
+Undeterred and angered by this experience, Kumar would end up assembling the "band of boys". Perhaps out of this same emotion, they would end up producing a spoof of MTV's Roadies, expecting it to get some traction.
+
+Rowdies Q-tiayapa racked up 1.1MM views in 5 days. I and countless other engineering students were in splits. MTV surely wasn't. 
+
+Instead of wanting to supply content to MTV, TVF now wanted to replace it. Living Upto Your NameBuoyed by the viral response to its Roadies spoof, TVF was now alive and kicking. Like a scrappy startup without any resources, the company relied on YouTube to distribute its content.
+
+It's here that you understand that TVF at its core would never want to be a distribution platform, but a new age content production house. The true comparison was not Netflix, but Disney. 
+
+The team would add more "creative" engineers, looking to pursue acting or writing. They would create household names like Jeetendra Kumar and Nidhi Bisht. The YouTube channel would begin to rack up subscribers rapidly, along with views, creating a dedicated fan base. 
+
+They would also start making inroads into the well-guarded walls (read Nepotism) of Bollywood. Anurag Kashyap would be part of their videos, and it would set the tone for the many who would follow.
+
+The Viral Fever was truly viral. Content Cloud KitchensTVF continued to build out its content, and was beginning to shape up like a true business.
+
+While YouTube provided ad revenue to the company, it was a small portion of revenue (TVF likely makes ~$1MM today). The larger portion of revenue would come from working with brands.TVF had a growing and substantially large audience, which was of the younger demographic. Brands wanting to place themselves in the minds of these young consumers would want to be associated with the "cool quotient" of the Viral Fever.
+
+This virtue by association is more commonly known as product placement, a $10Bn market. With a revenue of $1MM in 2015, the company started pushing to create more "captive audiences" which would be target groups for advertisers. 
+
+Just like in Edition 70, where Faasos was cooking up different cuisines in the same kitchen infrastructure, TVF would cook up content for different audiences using the same content production infrastructure. It is why you will see a broadly similar pool of actors across seemingly different YouTube channels. 
+
+Those channels are, of course, The Timeliners, Girliyapa, Screen Patti and Humorously Yours. 
+
+Like a different cuisine, each of these would target a different kind of niche/beat. The companies paying for each of these dishes would be brands (like Tata Motors) or content platforms (like YouTube). 
+
+With the cost to produce a video content piece being the actors and the equipment, TVF could command a significant premium on its content. Video, and media, production companies have almost 60% gross margins, and it could be an extremely profitable business. Tu Beer HaiTVF, in 2015, would release TVF Pitchers, a well-scripted story about 4 co-founders trying to start a new company. The show would pick up very well with the audience and critics, and remains one of India's highest-rated TV shows on IMDB. 
+
+Pitchers would play out in reality, and it would first result in TVF raising funding like a "content focused tech startup".
+
+The company would raise $10MM, after growing to INR 45 Cr ($8MM) in revenue. After years of wilderness as an aspiring director, TVF's Kumar finally found redemption by being backed to scale massively. Kumar would say that he had built a brand that even INR 100 Cr would find difficult to build. 
+
+And just like the drama of pitchers, an earlier mentor/co-founder would take the legal route, demanding a promised 4% equity stake in the company.  The company would refuse, but the ugly spat would be a precursor to a bigger storm.A Band of Bros?TVF, now Contagious Online Media Network, would continue to grow rapidly, moving to revenue of 213 Cr ($30MM), while raking up losses of INR 41 Cr ($6MM). It continued to churn out memorable content, including Permanent Roommates and Tripling's first season.
+
+Each video that they produced would be able to command $100-$200K from brands and sponsors. Scaling video content would enable them to scale revenue, and things looked positive. 
+
+In early 2017, the company would be rocked by claims of a bro-culture and harassment charges. They would be directed at none other than their CEO.
+
+In parallels to the Uber ouster of Travis Kalanick, who was facing a similar storm at the same time, poor financials would be the death knell for the founder-CEO. In both cases, misalignment with investors on company performance and culture would result in the founders leaving the company. 
+
+While Uber was a much larger company, with processes, teams and scale, TVF was a creative production house. By all means, the founder CEO was very much an important creative force in the company, which was still small and growing. The company would be shocked by the charges and the disruption in the feel-good feeling towards it. It's female-focused show "Bisht Please" would tank.
+
+The band of bros purportedly created a culture that would scar the young company. Dhawal Gusain, the company COO, would take over. From Bachelors to Permanent RoommatesThe company's expectations would be muted as it began to evolve into an organization reacting from a culture shock. 
+
+From its heydays, and till date, the company would always position itself as a production house. As content distribution becomes more ubiquitous, and OTTs such as Hotstar and Netflix fighting out, content producers will become king.
+
+Cheap data and wide internet distribution would become distribution a commodity, but content unique. 
+
+As I elucidated in the comparison between Netflix and Hotstar, content creation is a lucrative business. As Mr Kumar had earlier quipped "we might produce for Netflix", and TVF would do so for MX Player.  MX Player, a distribution channel, was an acquisition by media giant Times. 
+
+TVF Play is thus not part of the company's core strategy, but likely a method to signal to larger distribution channels that TVF could be a threat. These strategies are likely useful when signalling a larger player for an acquisition, or of the quality of content. 
+
+The focus of TVF would still continue to be producing high-quality content for content acquirers, and I believe that is a strong positioning as a standalone business. After the lows of 2017, TVF looks to be scaling again. 
+
+Like one of its stories, the making of TVF may likely have a happy ending. The community has now grown to an incredible size (4,000+), and it is overwhelming to see the love. I thank you all for reading every week!
+
+This week's request - if you have set up a manufacturing facility in India, or have worked with ITC/P&G/HUL and are looking for new challenges, please reach out to me. In Other News: Bezos splits 75-25In Other News: After intense speculation on the economic nature of the Bezos divorce, the Bezos fortune was split 75-25, making MacKenzie Bezos the world's third richest woman.
+
+A sordid saga, that reached its peak with Mr Bezos' detailed post on blackmail, had investors lurking in intense uncertainty. The key question was who (and how) control would be maintained for companies such as Amazon, Blue Origin and Washington Post, where the couple had joint holdings.
+
+Post the divorce, Mr Bezos retains control of all three companies, while splitting their shared fortune 75-25. In what was a fairly "well managed" public divorce, the two have parted separate ways amicably. 
+
+The split is a telling reminder that even the world's most powerful technology CEO, is human. , The War for e-Pharmacy, Last week, 1mg announced a $50MM fundraise to take on Netmeds and Pharmeasy in an increasingly competitive e-pharma space. Not So EasyOnline pharmacies, while being significantly more convenient for customers, are not a game-changing concept.
+
+Medicines and drugs are another product line to be sold online, and by extension have the same properties as an e-commerce channel. These pharmacies provide all the benefits of e-commerce viz. price discovery, transparency and convenience. 
+
+Sounds simple to setup? Not if you're governed by an act from 1940.
+
+India's drug distribution laws are still governed by the archaic Drugs and Cosmetics Act (yes, 8 years before independence). Our country's architects had obviously not heard of the internet. 
+
+The act was last amended 23 years ago, which suffices to say that it is not online ready. The act was obviously built with consumer protection in mind, but the gist is that you need a license to distribute in each state.
+
+Imagine the logistical complexity if Flipkart needed to do that for its phones. A Rush of DrugsWhat seemed not so easy, Pharmeasy decided to contradict with its name. 
+
+Unperturbed by the challenges faced due to regulatory hurdles, Pharmeasy set up shop in 2015 to distribute drugs online. 1mg soon followed suit, and Netmeds spun out of Dadha's and Co in 2016. 
+
+By 2016, Pharmeasy would raise $5MM, 1mg took $26MM and Netmeds raised $50MM. The 3 players had almost $100MM to ship medicines to Indians online. 
+
+The game was on. 
+
+The three companies did more or less the same thing, which was to sell drugs online. Apart from drugs, the companies would also add other related services like diagnostic tests and healthcare products. 
+
+The question here is - what would be motivating 3 players to do exactly the same thing? Why would investors back three similar companies, all in the span of 1 year?
+
+A giant market for the taking, of course.Billions for Blistering BrandsThe Indian pharmaceutical market is one of the largest sectors in India, with the industry pegged at $30Bn, expected to reach $50Bn in 3 years. 
+
+The market is so big, that annual sales of just anti-diabetic drugs are as much $3Bn. 
+
+Indian Pharma has grown in prominence over the last decade, driven by India's push into generic drugs. Sun Pharma, Lupin, Cipla and multiple Indian brands have grown incredibly fast, and in the process created multi-billion $ companies. 
+
+50% of India's pharmaceutical drugs are exported, and India accounts for 20% of global exports. The domestic market is growing at 15%, driven by increasing incomes, health awareness and easier availability of healthcare.
+
+As Indian companies grow to create drugs for the world, so would consumers begin to purchase with greater frequency. For generics, that are essentially the same drug with different packaging, distribution and marketing are the real keys to success.
+
+Distribution, though, was costly. Mercy of the MiddlemanPharmaceutical drugs have elaborate, and well-oiled supply chains.
+
+After the company manufactures the drugs, the drugs are distributed to regional warehouses, then wholesalers, then retailer and finally to the consumer. 
+
+Each layer in the supply chain is to be compensated for the value it adds. Due to the price sensitivity of the consumer, each layer operates on wafer-thin margins.
+
+Recall the fact that to distribute drugs, you need a license in each state (and sometimes each district). There are different kinds of licenses, wholesale or retail, that you need to apply for to be able to operate. 
+
+This regulatory framework is precisely the reason why there are so many local pharmacy stores. Buyers of pharmaceutical drugs are price and time sensitive, and hence would want drugs cheaply and fast. 
+
+Licenses create a "barrier to entry" for procuring and distributing drugs. Distributors who don't have the license to procure in a particular state, but have a license in another one, would have to send their drugs across two states.
+
+Losing both the advantage of time and cost would make a larger, but faraway, pharmacy lose its edge over a local pharmacist.  The outcome has resulted in more than 500K+ pharmacies and 60K+ stockists. 
+
+The middlemen had created a huge, disorganized market. A Disorganized CartelThe disorganization, though, did not mean that the local pharmacies did not have heft. The myriad regulations that each state have are already incredible friction for a startup with limited resources. With license issue a process, there is potential for pressure from incumbents. The license pressure, though, would only be the start of large scale cartelization by local pharmacies.In classic disruption battling strategies, incumbents with vested interests (i.e. local pharmacies), would push for having e-pharmacies "following the rulebook". The irony is that a lot of these local pharmacies flout these very rules, such as providing medication without prescriptions for certain drugs. These calls for "transparency" have resulted in witchunts for e-pharmacy players. In cooperative behaviour that is unlike any other online e-commerce market, all e-pharmacy players came together to form an association that lobbies for their interest. 
+
+Strong lobbies have resulted in oscillating between punitive high court bans for e-pharmacies to beneficial drafting of specific rules for e-pharmacies. Right Shade of GreyGrey areas in law is a risky place to do business, but if the laws move in your favour they can result in outsized returns. 
+
+e-Pharmacies operate in the grey of regulations, and because rules are uncertain, large players in the market will be rewarded in an outsized manner if rules move in their favour. 
+
+There are already positive signs for the e-pharmacies, which only account for 1% of the overall market today. 
+
+If the rulings fall in the favour of e-pharmacies, they could free online pharmacies of having state-specific licenses. A domestic license would be enough for online players to distribute drugs all across the country, which provides significant abilities to scale. 
+
+With recognition on the right side of the law, e-pharmacies will be able to combat local pharmacies better. Patients will trust e-pharmacies more because of their transparency.
+
+Trust, though, will be a bigger hurdle than regulations for e-pharmacy players. Love Thy Neighbouring PharmacyMedicines, unlike like electronics or food, are extremely critical to health.
+
+Patients, especially for chronic illnesses, can't afford to take medication that is spurious or ineffective. That decision would literally be life-threatening. 
+
+Local pharmacists, and rightly so, build decade long relationships with patients. Patients, therefore, trust these pharmacists with their lives, and making someone switch is incredibly hard. 
+
+Drugs for chronic illnesses are generally more expensive than off the shelf medication and are therefore more profitable. Patients of these chronic illnesses are usually older and are loath to trust a "newbie" online player. 
+
+This turns out to be a double whammy for online pharmacies and is going to be a challenge for them to solve. 
+
+That could mean bleeding to win. Racing to the BottomGiven that online pharmacies are distributors of "commodity" drugs, the three large e-pharmacy players are racing to acquire customers in a land grab.
+
+The necessity to acquire customers is evident if you look at economics. Pharmacy retailers make 10-15%, while distributors make 25-30%. Assuming a 25% margin for a drug that sells for 30 INR, an e-pharmacy makes 7.5INR. Assuming a spend of 150 INR to acquire a customer, it needs 20 purchases before a customer breaks even.
+
+The business is one of repeat. 
+
+The implication is that customers will necessarily purchase repeatedly, and acquiring them first is critical. e-Pharmacies will, therefore, spend significantly on customer acquisition, both through marketing and even a 60% discount on products. It is little wonder 1mg burnt $20MM on revenue of $10MM. 
+
+That said, e-pharmacies don't have network effects, because the supply side is one entity (unlike multiple restaurants on Swiggy).
+
+Being large, though, provides significant economies of scale that can help with the war.A Complex Ware-Pharmacies, with 1mg raising $93MM, Pharmeasy at $108MM and NetMeds at $100MM, are significantly well capitalized.
+
+Notice the "coincidental" equivalent fundraise, which has happened due to nothing but the game theory of each investor group upping its "stake on the table" to win. The company that is able to raise from a large investor (ahem) is likely to get a significant advantage. 
+
+Not only are the three companies fighting with each other, but they are also fighting with a massive group of incumbents. Unlike retail, where similar small shopowners exist, local pharmacists have significant heft due to trust and regulatory advantages.
+
+Capital will be spent on both customer acquisition and managing regulations. Customers will benefit from a better experience, transparency and competitive pricing. 
+
+The winner of this three-way war will likely change the way we buy medicines.Last week's piece on Hotstar landed up in the promotions tab for some of you (because, Hotstar). This week's request - if you have experience with ensuring non-marketing emails end up in the right inbox, please reach out to me. Please also filter the newsletter as non-promotional as described here!In Other News: Lyft takes off at $25BIn Other News: Lyft debuted on the stock market with a $25Bn stock market opening, and traded up 9% on the market. 
+
+Viewed as the only company providing public access to the ride-hailing market, the company was trading at an 11x revenue multiple.  Responses to the IPO have been fairly positive, and it is a big win for the early investors that backed disruptive companies. 
+
+Uber will follow up with its own IPO soon, and it appears that Wall Street (like Silicon Valley) just cares about growth and not profitability. Lyft, for example, is the highest loss-making company to ever go public. The risk appetite of investors, both private and public, is immense. 
+
+I don't think there was any better time to be an entrepreneur than today. , Is PhonePe Payments' Dark Horse?, Last week, Walmart-Flipkart announced PhonePe's hiving off, allowing PhonePe to raise up to $1Bn of external capital. Acquiring your Acqui-HireAfter spending 4 years at Flipkart, senior executives Sameer Nigam and Rahul Chari decided they would start off on their own again. The two had joined Flipkart after their previous startup Mime360 was acquired by Flipkart in 2011.
+
+In August of 2015, the two left, and along with Burzin Engineer, began working on a payments platform. The idea of the product was a payments solution, built on IMPS, that would pivot into the Unified Payments Interface (UPI). The National Payments Corporation of India would launch the ambitious project to help transfer inter-bank. 
+
+UPI  was expected to launch in April of 2016, and PhonePe was incorporated in December 2015. The company would be well placed to launch a solution by the time UPI would be live. 
+
+Within 4 months of PhonePe's operations, Flipkart acquired Mr Nigam and Mr Chari's company yet again, at a deal valued at $10MM. In what was Flipkart's fastest acquisition, that felt more like an internal promotion, PhonePe arrived at Flipkart's stable. 
+
+With PhonePe's product yet to be launched, Flipkart was betting on seeing significant traction through this payment platform.Going with the FlowWhy would an e-commerce player acquire a payments solution, that was yet to even start? 
+
+Online e-commerce was stifled by the payments infrastructure, having to rely on expensive credit cards or high friction bank account transfers. By enabling people to pay and transact smoothly, the ability to shop online would become easier. 
+
+While this may seem like a robust enough reason, there was an even larger success that emboldened Flipkart to take the leap of faith.
+
+Alibaba's Alipay had, 2 years ago, become the world's largest payments platform. With Alibaba providing Chinese consumers seamless access to products, it also began to operate a gatekeeper for payments. 
+
+The rationale was compelling - if you sit in the flow of money, you can make even more money.
+
+Snapdeal's (now botched) acquisition of Freecharge, and PayTm's (now struggling) evolution into PayTm Mall were both inspirations from Alibaba. Alibaba's shareholder Softbank is common to both Snapdeal and PayTm, and it would have likely pushed to replicate Alibaba's success in India.Growing PainsWith new access to 40MM+ customers and Flipkart's infrastructure, PhonePe's 20 member team continued to build the platform in earnest. 
+
+Within 4 months, the PhonePe app was launched on Android, being the first app to integrate with UPI. Utilizing Flipkart's resources, the app crossed 10MM downloads, being the first UPI focused app to do so. It grew 100% month on month, as it scaled rapidly across consumers and merchants.
+
+Then in early 2017, the first spanner in the works appeared in the form of ICICI (and PayTm)
+
+In a classic competition muscling move, ICICI blocked any transactions for its users from the YesBank UPI VPA. ICICI had assigned its VPA to PayTm, while PhonePe was with YesBank. For two months, PhonePe struggled with ICICI, even temporarily halting UPI services until the matter was resolved. 
+
+The matter, though, would put PayTm and PhonePe at loggerheads, in a battle that would become increasingly direct as PhonePe scaled. Elephant in the RoomWhile PhonePe raced to 10MM downloads at a rapid pace, PayTm was already doing 1.5Bn transactions a year in 2017.
+
+With $5Bn GMV, 200MM+ users and more than $2Bn of capital PayTm was the elephant in the payments ecosystem. In comparison, PhonePe was doing just $40MM of annualized transactions at the beginning of 2017, almost 1/100th of PayTm.
+
+The pressing question, and the real elephant in the room was which model would really succeed.
+
+While both PayTm and PhonePe facilitated payments, their approach was entirely different.
+
+PayTm is primarily a semi-closed wallet, with payments that can only be made from the wallet. PhonePe is primarily based on UPI and accesses bank accounts directly to make payments. Both have wallet/UPI features, but the distinction in incompetencies is important. 
+
+Wallets require you to add money, given they are not the primary "store" of wealth. Wealth is usually stored in bank accounts, and UPI directly draws from bank accounts. Wallets would need KYC, which UPI would not. Prima facie, UPI would be easier to use than wallets. PhonePe could potentially challenge PayTm.
+
+But with 100x the volume and 200MM+ customers, PayTm could easily blow away PhonePe, even on the UPI game. Ant in the TrunkPhonePe's proxy fight with Ant Financial backed PayTm, through ICICI, would not be lost on the company.
+
+PhonePe, though it started with 1/100th of Paytm's volume, began to grow rapidly. Driven by the transactions on Flipkart, ironically like Ant Financial was driven by Alibaba, PhonePe would onboard millions of customers and thousands of merchants through the year.
+
+From 10MM downloads, PhonePe would scale to 55MM downloads, but the push through Flipkart would scale it beyond expectations. The transaction volume would grow 82x in the space of just a year, and from being a small player, it would soon be one of the largest. Like the fable of the ant and the elephant, the "ant" PhonePe would challenge the "elephant" and end the year with $5Bn of GMV.
+
+The fight would not end just there. 
+
+In early 2018, PayTm would claim that it was the market leader in UPI payments. PhonePe, tongue-in-cheek, released an article taking a dig on PayTm's Gold and UPI "lead". It would also claim that PayTm's transactions were 38 INR on average ($0.5), v/s PhonePe's INR 1,116 ($20). It would also claim that most of these transactions were for cashbacks. 
+
+The race was on.Show me the MoneyWhile transaction volumes and users grew, how was PhonePe operating as a business?
+
+PhonePe is essentially a value-added matchmaker, that connects two transacting parties by facilitating a financial transaction. When one of the parties is a merchant, which would be defined by transaction volume, PhonePe would take a commission on transactions.
+
+It is interesting to know that the company was supposed to be built on IMPS pivoted to UPI. This is critical because NEFT requires paying banks a fee, while IMPS does not. 
+
+In 2016-17, the company would earn INR 3Cr ($400K), while in 2017-18, the company would scale to INR 42Cr ($7MM). The bottom line would be in deep red, with 2016 seeing losses of 129Cr ($20MM), while 2017 would see losses of 791Cr ($100MM).
+
+A large portion of the expenses would be spent on marketing and onboarding customers, showing why PhonePe grew so quickly. Due to being matchmakers, payment solutions display network effects, and winner takes all behaviours. This is essentially they require a considerable investment before they begin to monetize. 
+
+By mid-2018, the company had scaled to $20Bn of gross transaction volume. To get into offline transactions in a deeper manner, the company would acquire Zopper, which had access to 300K merchants. 
+
+PhonePe was building to win, at scale. Evolving into EcosystemsThe Alipay story, which PayTm was executing to a very large extent, was building an ecosystem. 
+
+The wallet, or payment gateway, was just the proverbial "honeypot" for customer acquisition. After a user was onboarded, the "four walls" of the application could be utilized to upsell and crossell various other financial solutions. 
+
+PhonePe rapidly expanded into a variety of transactional services such as buying travel, food, transport, retail or entertainment. Leveraging its user network, the company tied up with Ola, OYO, redbus and many other service providers. 
+
+The goal was to, of course, become an ecosystem. 
+
+PhonePe soon entered wealth management, with curated investment packs and digital gold. Reminiscent of its dig on Paytm's gold, the company was in complete lockstep with PayTm.
+
+With the ecosystem being built out, PhonePe was ready to launch. Releasing the Dark HorseJust 4 years ago, PhonePe had joined Flipkart's stable and had been nourished with its infrastructure. 
+
+As both PayTm and PhonePe show, payment ecosystems are money guzzling machines. As defined earlier, these ecosystems acquire customers today (acquisition cost) and generate value over a lifetime (lifetime value). To get to generating lifetime value, it requires a significant amount of capital. Walmart has already brought in fiscal discipline and looks to create equity value. It makes a lot of sense to take money-guzzling entity off Flipkart's income statement, while still having exposure through the balance sheet. Having Flipkart focus its operations on e-commerce, along with getting the upside of PhonePe's growth is Walmart's strategy. 
+
+With PhonePe looking to raise $1Bn from investors external to Walmart, the future looks bright for PhonePe. Its higher transaction value indicates it has acquired high-value users and merchants, who are likely to generate considerable value in the future. Their new Daddu and Gublu campaign for the IPL is a direct challenge to PayTm. 
+
+Seen as a small in-house entity just two years ago, PhonePe is now the dark horse of the payments ecosystem.Given the incredibly helpful nature of the community, I have started with weekly requests to you. This week's request - if you have experience with attribution in digital marketing, please reach out to me.In Other News: Elon Musk, againIn Other News: Tesla, SpaceX and The Boring Company founder Elon Musk pushed back strongly to the SEC for his tweets last year, and a few weeks ago. 
+
+Musk says the SEC's view of the "funding secured" tweet is a "radical interpretation", which he believes is not material. Musk settled for $20MM with the SEC, and also agreed to step down as Chairman of Tesla. 
+
+Elon Musk has gained a cult following for his "moonshot" companies, and direct, no holds barred attitude to running businesses. Each of his companies appears to push the "boundary" of the industry, which is why he is so incredibly popular. 
+
+I personally believe, though, that he is stretched too thin - and the aggressive persona is likely covering for a business in danger. , Inside Hotstar's Industrial Complex, Last week, video streaming platform Hotstar raised $153MM, post which it launched a 365 INR VIP subscription plan. Parent as a PowerhouseStar India has been a dominant force in the Indian entertainment space for nearly 3 decades.
+
+Starting with Star Plus in India, in 1990, the company has constantly expanded its bouquet of channels. 
+
+After entertainment, and an acquisition by Rupert Murdoch's Fox, Star has rapidly added channels to become the largest broadcasting network in India. With 60 channels, across sports, music, movies and TV Shows.
+
+Star is a powerhouse in content, producing 30K hours of content each year. Put that in comparison to global giant Netflix - which produced 1.5K hours in 2018. 
+
+Star had access to almost every television screen in the country, yet there was a new screen that was increasing in adoption.
+
+Those 200 MM screens, of course, were smartphones. A Star is BornTo tap this large growing market of screens, that was likely to take away attention from TVs, Star had to innovate.
+
+It is usually unlikely that large conglomerates, especially those that are dominant, innovate. Stories like DVD rental giant Blockbuster, which was eliminated because it didn't innovate, are easy to find. But Star took cognizance of a potentially new way of consuming entertainment and disrupted itself before someone else could. 
+
+In this large giant Star, a startup called Hotstar was born.
+
+Envisaged as a video streaming platform in early 2015, Hotstar aimed to bring video to your phone. While it may seem like Hotstar would have it easy, video streaming as a concept in India was fairly nascent, and few people believed that it would work. Playing the World CupThe timing of Hotstar's release was opportune and meant to coincide with the cricket World Cup.
+
+India is a cricket loving, and cricket hungry nation. To have the ability to watch matches from the comfort of your phone or laptop, instead of standing on the neighbourhood TV, was an excellent prospect. 
+
+It would be a daunting prospect to have your product "beta launch" during the most watched and most followed event in the country.
+
+Would the product break? Would the servers crash? There could be millions of users. Streaming it would be a high risk, high return game, just like the World Cup. 
+
+Hotstar would turn out to host 87MM users. Within the first 5 days of its launch, Hotstar grew to 1MM downloads, 10MM in a month and 25MM in 4 months. 
+
+Its success surprised Star itself. Netflix gives a ChillThe incredible success of the World Cup was amplified by the follow up with the IPL. While the World Cup saw 300MM views, the IPL garnered 200MM views. Hotstar continued to grow unabated. The Hotstar service of high quality and a game-changing experience for Indian consumers. A significant contributor to its viral growth was also the fact that it was free. 
+
+The real question as a streaming business would be - would people pay?Streaming had already seen success in the US, with Netflix disrupting itself to become a streaming service. While Hotstar made money through advertisements, Netflix made money solely through its subscriptions. 
+
+It would be Netflix that would make the first subscription move in India. 
+
+Entering in early 2016, Netflix would bring its popular global content to India. Throwing its hat in the ring, the $280MM OTT market now had global competition. 
+
+Priced at a premium 500INR/month ($8), Netflix would go after premium Indian users. This, though, would also be a market that Hotstar would soon target. 
+
+The Sacred Games would soon begin.Making People PayThe success, and the long term viability of Hotstar, would be dependent not on "lumpy" ad revenue, but a constant stream of subscriptions. In anticipation of setting up a subscription service, Hotstar partnered with Game of Thrones producer HBO. 
+
+The move would be excellent for business. 
+
+Starting in early 2016, Hotstar would begin charging 199 Rs ($3) for its subscription service. It would see early 2016 revenue at INR 30 Cr ($4MM).
+
+By 2017, the subscription revenue would grow to 130Cr ($20MM), which works out to 500K monthly subscribers. This would account for 40% of the company's revenue, indicating how important subscription would be for the business. "Jio Ji Bharke"Hotstar had made a bet that consumers would watch content from their devices. Devices could be computer screens or smartphones.
+
+The real infrastructure, though, that was lacking was pipes of data to consumers. While telecom providers did provide data access, it would usually be limited (1 GB), and part of a fairly costly plan. 
+
+Sometimes, good things happen to businesses, and these are called positive externalities. Reliance would make one of the biggest business bets on earth by launching Reliance Jio, and investing $25Bn. 
+
+Jio would surge to 100MM subscribers. Where would these subscribers spend their time?
+
+Watching 3.4 Bn hours of video, every month, of course. Losing Sacred GamesWhile Hotstar had the first mover advantage, and saw positive externalities from Reliance Jio, there were already many players in the fray. Amazon entered with Prime, and Netflix had already staked claim to the Indian market. 
+
+Soon, Netflix would play Sacred Games to cement its position in India's video wars, with the show being a customer acquisition strategy.
+
+Sacred Games would be a marketing (not content) cost to understand Netflix's business strategy. A film like Sanju cost ~$15M, similar to a season of Narcos. Netflix's production for Sacred Games would likely be a third.
+
+For an annual subscription of $87, Netflix would need to acquire 55,000 paid users to justify Sacred Games. For Netflix's ~500K paid users, this is plausible growth for their 100M user target in India.
+
+Many commentators wrote off Netflix, using the poor metric of "subscribers". These "subscribers" are actually monthly active users, including free users. 
+
+Looking at paid subscribers, only Hostar, Prime and Netflix have those. According to estimates, Hotstar would have ~2M, Prime is 600K and Netflix is ~500K.
+
+Prime Video is rightly a % of the overall Prime subscriber base. Hotstar and Prime cost $14, and Netflix costs $87 annually. Multiplying, Hotstar would be $30M, Amazon Prime would be $8M and Netflix would be $45M.
+
+Written off as the vanquished Ashwatthama, Netflix would be the fierce Rudra in India video.Winning at Being SportyNetflix may have won the "eternal" content contest (i.e. TV Shows), but Hotstar would always be in pole position for "ephemeral" content (i.e. live sports).
+
+Hotstar's parent would win the right to broadcast IPL for $3Bn. For 60 matches over 5 years, and one match being 180 minutes, that is 54K minutes of content. That works out to $3Bn/54K or $55K for every minute of IPL content. Comparing this to Netflix's most expensive show The Crown, which costs $13MM per episode of 60 minutes. That would work out to $200K/minute of content. 
+
+While this math quite powerfully shows the differential pricing of content that has immediate value (sports) and long term value (TV show), it also shows how different Netflix and Hotstar are.
+
+Netflix/Amazon Prime have core strengths in content that is time agnostic ("eternal"), such as TV shows that can be watched anytime with the same value (unless someone spoils it for you). Hotsar has its core strength in content that is time-sensitive, such as sports that are watched at the time of broadcast, which has little value once the game is over. 
+
+Netflix and Hotstar do compete for attention, but their attention is of different kinds. An analogy would be the competition between Dominos and McDonalds. While they are both QSRs, they are as different as Pizzas and Burgers. There's always a time for each.
+
+With 100MM+ downloads, Hotstar is a force to reckon with. It is venturing into original content through Hotstar Specials. The potential to upsell and cross-sell content with its 365 INR package is immense. 
+
+Hotstar has built an industrial content complex, and it will be a major force in India video.Given the incredibly helpful nature of the community, I have started with weekly requests to you. This week's request - if you have experience with building a sales force, please reply to this email. In Other News: Spotify v/s AppleIn Other News:Spotify filed a suit against Apple over anticompetitive practices. Apple's notoriously closed and opaque ecosystem has been a hurdle for a lot of entrepreneurs. Spotify has upped the ante considerably, dedicating an entire website pushing Apple to "play fair".
+
+Its key claims are that Apple denies customers true choice, imposes a 30% "tax" in the form of a fee and provides advantages to Apple Music. Spotify has also been at the receiving end of "monopolistic" behaviour complaints, and the Swedish Spotify's filing with the hard-nosed European Commission is an interesting legal strategy.
+
+The likely winner here, though, is going to be the consumer., Inside Faasos Rise to the Cloud,  Last week, food technology company Rebel Foods (previously Faasos) kicked off its $75MM fundraise with a $16MM first tranche. Beginning to RollThe Faasos' journey poetically started with a beverage (read alcohol).
+
+In 2003, Jaydeep Barman and his co-founder friend Kallol found themselves deep in a drunken conversation. While looking to name their company, they came up with "Fanatic Activism Against Sub Standard Occidental Shit", inspired by the obscure country Burkina Faso.
+
+Faasos, the roll company, was thus born in Pune. 
+
+That, though, would not be the true "beginning" of the company. Both founders would leave abroad to pursue an MBA while letting two friends run the operations. In a clever move, Mr. Burman ensured that the founders owned the franchise. After a stint at a consulting firm, Barman would return to Faasos in 2010, when the company had grown to 5 stores.Something's CookingWith the founders back to the team, in 2011, the company had scaled from 5 stores to 18. It also managed to raise its first round, with the investment likely backing the strong team and potentially large market. 
+
+Faasos was positioning itself as a quick service restaurant (QSR), looking to take on the likes of McDonald's and Dominos. While it may seem like the company has "pivoted" multiple times since the start, its focus has always remained the QSR market. 
+
+A market that was worth $1.3Bn, growing at a rapid 22% in 2017. 
+
+The QSR market is fundamentally pushed by increasing urbanization and growing incomes in India. Consumers who are becoming cash rich and time poor, would prefer to eat a quick meal out of their house, versus cooking at home. 
+
+Faasos growing stable of outlets would coincide with the coming of the internet and the smartphone to India.Wraps and More on the Internet  
+I remember my second year in college when we ordered from Faasos regularly. My favourite Chicken Mayo Wrap (even today) would be free with another that my friend would order, via the app.
+
+Little did I know that this "discounting" was a classic high lifetime value customer acquisition strategy, that Faasos could only afford because of the money it had raised.
+
+From 2012 to 2015, Faasos would double down on its roll and wraps strategy, expanding slowly across cities. By the end of 2015, the company had scaled to annual revenue of $5MM, while processing 150K orders a month. Its outlets had grown from 18 in 2012, to 90 in 2015. 
+
+The company raised one round over three years, indicating that its $8MM investment was sufficient for its growth. It was a classic example of product market fit getting established while reducing losses.
+
+But the company had bigger plans.Faasos began offering biryanis with its wraps, under the same brand, but would have likely noticed something peculiar. People would order only biryanis, and not the wraps.
+
+Could you sell biryanis and wraps from the same kitchen, but under different brands?
+
+That's likely exactly what the Faasos team thought, and it is this vision that resulted in a substantial $30MM raise in early 2016, a year after a $20MM fundraise. Soon enough, Faasos would launch Behrouz Biryani under a separate brand. A Kitchen on CloudWhat Faasos created by reading consumer demand was essentially what is the now mainstream "cloud kitchen".
+
+The concept is simple. A kitchen would have no storefront but have the ability to cook multiple cuisines. This kitchen would create food of various cuisines under one roof. It would service all demand through delivery.
+
+The concept made ample economic sense.
+
+Stores would no longer need to depend on footfall for consumption, removing the need to rent expensive real estate. Store unprofitability, due to classic stagnating revenue and increasing costs, would be eliminated by continuing to add brands. Stores could kill brands that are not working, and double down on the ones that worked. 
+
+Kitchen payback (i.e. the time to recover investment) would take less than a year, versus 3+ years normally. 
+
+The kitchen would just focus on high quality, delicious food brands. The strategy would prove to be a game changer for Faasos.Consumers in the CloudsThe kitchen would just focus on high quality, delicious food brands. The strategy would prove to be a game changer for Faasos.The company grew from a revenue run rate of $12MM in mid-2016, to a $24MM run rate in mid-2017. The biryani brand, Behrouz, grew substantially to account for 25% of company sales. 
+
+A full 100% growth at this scale is quite difficult, and repeating the same would be even more tough. Growing 100% again to $50MM would amount to accounting for 5% of the hyper-competitive $1Bn QSR market. Dominos, in 20 years of existence and 15x the number of stores that Faasos had, had garnered 25% of the overall market. 
+
+Faasos growth would end up being propelled by another voracious food startup.Delivering the Missing PieceFaasos (now Rebel) had built significant competency in culinary development. Whether it would be improving food for a present brand (better biryani) or creating a new brand (pizzas through OvenStory), Rebel had created the playbook.
+
+What it lacked was strength in logistics, because it had focused resources on solving the food problem. Creating a delivery network would require significant investment, and somebody else was already solving that. 
+
+That would be Swiggy, of course.
+
+Faasos would soon find itself free from the need to build its own delivery network. As the eloquent and entertaining Mr. Barman puts it, food would see different companies become strong brand owners (like Unilever) and strong retailers (like Amazon). 
+
+McDonalds, which was both the food brand and the retailer, would give way to Faasos (brand) and Swiggy (retailer). Faasos doubled its revenue in 2018 (again) hitting a $45MM revenue, and is on track to keep the same growth in 2019. The company's valuation of $400MM is a 6x multiple of its (likely) $60MM run rate today. "Downloading Food from the Internet"Just like in 2011, when Faasos set out to disrupt Dominos, Rebel Foods has Dominos firmly in its sights. This time around, the model is entirely different.
+
+While the "1,100 restaurants" may feel like a tall claim, when it appears to be 175 cloud kitchens multiplied by 6, it is commendable. The fact that Rebel has created the infrastructure where you can literally "switch on" a brand, there is substance in the multiplication. 
+
+The "world's largest internet restaurant company" now has 10 restaurant brands, after its initial success with Behrouz. 
+
+Each brand caters to a different cuisine and style. While I believe the number of cuisines/brands will plateau, each of these could scale significantly. Given the shared infrastructure, success with one brand would help the other. 
+
+As the company scales across multiple cities, stores and cuisines, there is huge potential to grow. The growing QSR space is also likely to fuel its growth further. 
+
+Rebel Foods could change the way we eat quickly, quickly.Influential accelerator Y-Combinator announced that their president Sam Altman will be stepping down. Mr. Altman, who has been with the company since 2011, has converted an incubator/accelerator into (quite literally) a startup school. Multiple startups globally vie for the few Y-Combinator school spots every year, wearing success like a badge of honour. "Graduating" from the handpicked Y-Combinator cohort is a strong signal to future investors that the startup has something special. Over the years, YC has evolved to change the landscape of early-stage funding. It will be interesting to watch its future progression without the outsized ambitions of its boss.
+
+Given the incredibly helpful nature of the community, I will be starting with weekly requests to you. This week's request - if you have experience with application development, especially with the iOS ecosystem, please reach out to me.Last week, vernacular social network ShareChat was in the process of raising $200MM, hot on the heels of acquiring vernacular video sharing app Clip. ShareChat's acquisition of Clip comes at an interesting time in the vernacular (i.e. non-English) content ecosystem. Aggressive expansion of Chinese players, such as TikTok and Helo into India, are already showing consolidation effects. All these players are going after the buzzwordy "next billion". These are users who have just begun to use the internet, are primarily in emerging markets, and don't necessarily understand English. 
+
+ShareChat has become the poster boy of this ecosystem. 
+
+Started in 2015 by 3 IIT Kanpur graduates, Faridh Ahsan, Bhanu Singh and Ankush Sachdeva, ShareChat evolved out of multiple experiments. Straight out of college, and after 14 failed projects, the young trio started a Whatsapp group to debate. The flashpoint was starting a debate on movie stars Shahrukh Khan and Salman Khan. While the debate was a failure, the experiment resulted in 32,000 signups, largely from tier-2 and 3 cities. 
+
+ShareChat, a product of cleverly named MohallaTech (Mohalla means neighbourhood), was thus born. 
+
+The beauty of such products is the very apparent, but hidden, problem that they solve. Communication is a core human behaviour. Expression is a fundamental human need, and it is visible when people are in familiar settings.
+
+For people just getting onto the internet, it is already a new and intimidating place. This is especially true if their interactions are in a language foreign to them. India has a population of 1.2Bn, and only 10% of them speak English. For the rest of the 90%, English is both intimidating and complex. 
+
+Platforms in English would thus be extremely unfamiliar for the "Next Billion"
+
+It is not only the language that is intimidating. In his excellent piece, "India2 and building for the next billion", Sajith Pai observes that just changing the language is not enough. The user experience for users should also feel familiar. Porter Erisman, in his compelling book "The Next 6 Billion Shoppers", talks about how chaotic and colourful Alibaba's platform was. This was done to ensure Chinese users felt at home. 
+
+Facebook's snazzy user experience would alienate new users, and ShareChat would capitalize. This would be the "hidden" problem that ShareChat would solve, and is now clear as a day. 
+
+ShareChat would evolve from a WhatsApp group creator to a platform of its own. Within its first 3 months in late 2015, the company would see 100,000 installs. By mid-2016, it had already reached 1.3MM installs, and 500K active users. 
+
+10x in half a year? That is the definition of viral growth. 
+
+ShareChat, like its name suggests, focused on sharing. The platform looks like a mix of Twitter, Facebook and (obviously) Whatsapp. But according to their founder, it aims to become India's WeChat. The choice of parallel is striking and well placed, and it shows that the company wants to be India's answer to Facebook. 
+
+Earlier this year, when Facebook was struggling with multiple core company issues, I had talked about how Facebook's fall could help vernacular content's rise.
+
+Despite India being an open market, there are very Indian problems that very Indian companies need to solve. Global tech companies like Facebook which are exports from developed economies, may not understand the issues that are very India specific.
+
+WeChat, with its one-app-rules-them-all, has been a major success in China. Such a strategy has not worked in the US, and that is primarily because China is a mobile-first economy, while the US is evolving to be there. 
+
+As India becomes mobile-first, taking inspiration from WeChat thus made more sense than Facebook. 
+
+ShareChat's rocketship would continue to coast unabated for most of 2017 and 2018. In 2017, the company had grown 10x again, to 4 million active users. This would result in another fundraise of $18MM. The growth would continue into 2018, where the company would raise a mammoth $100MM and truly announce itself as the poster boy for the ecosystem.
+
+At a $300MM valuation, with no "questions about monetization", the question obviously would be monetization.
+
+Most social networks, like Facebook or Instagram, monetize using advertisements. While importing WeChat's philosophy, the "acquire first, monetize later" is a Silicon Valley import that ShareChat still sticks to.
+
+But the real question is - can this user base be monetized well?
+
+Since CK Prahlad's seminal book "Fortune at the Bottom of the Pyramid", gold seekers have come looking for fortunes. This has largely been an exercise in vain because it is so difficult to actually acquire this fortune.
+
+The capital investment needed is incredible, because service delivery and acquisition of these users is expensive. Additionally, the paying capacity of these users is very limited to make this profitable. I believe the Bill and Melinda Gates Foundation is well poised to monetize this, but that is ofcourse an aside.
+
+India is a developing market, with a per capita income of ~$2,000. The top 10%, which mostly speaks English, is not ShareChat's market - and it is the one that can pay the most. The rest of the 90%, which largely lives on an income of $2K or below, spends a lot lesser.
+
+To show the contrast, you could generate companies of similar scale if you acquire the top 10% (100MM) of the economy or the bottom 80% (800MM). Will advertisers pay for ads to the bottom 80%? If yes, how much?
+
+For ShareChat to really succeed, it is clear that it needs to scale dramatically. 
+
+The scale seems to be hitting choppy waters with competition from where ShareChat should expect competition - China. With deep pockets and product market fit established in China,  startups giants like ByteDance, the world's largest unicorn, are entering India. Notice the top 5 apps - and you'll find both TikTok and Helo - ShareChat is at #7. 
+
+Chinese social networks, having seen growth flatline, because (evidently) human beings are limited, are now looking at India. Not only are these networks fighting each other in China, but they are also now fighting each other in India. Caught in these crosshairs is ShareChat, with an erstwhile "massive" $100MM war-chest that pales in comparison to ByteDance's $3Bn. 
+
+The addition of Chinese competition is going to result in consolidation of the space, as Indian players team up together to fight Chinese competition. Guess who wants to back ShareChat in its fight with ByteDance?
+
+WeChat's Tencent, of course. 
+
+Not only does ShareChat need WeChat's inspiration, but it also needs its strategic guidance and capital to take on a well-funded competitor. Tencent would love to battle ByteDance in India, after worrying it in China. ShareChat could well be the "proxy" between Tencent and ByteDance, as each seeks to win or redeem itself. 
+
+While it looks like an uphill battle, I would truly want ShareChat to win. This week I look at Stupidity, Instagram and Sugar[Large Startups]: Uber and Lyft are losing money - and we will pay for it[Large Startups]: Uber and Lyft are losing money - and we will pay for it[Work Culture]: Different kinds of stupid[Work Culture]: Different kinds of stupid[Growing Startups]: The most important metrics you are not tracking[Growing Startups]: The most important metrics you are not tracking[Buzzwords]: The dangerous AI text generator[Buzzwords]: The dangerous AI text generator[Life x Startups]: Markets are eating the world[Life x Startups]: Markets are eating the world[The New Monopolies]: The latest Instagram influencer frontier[The New Monopolies]: The latest Instagram influencer frontier[Data!]: Truth v/s religion - four quadrants of data companies[Data!]: Truth v/s religion - four quadrants of data companies[Modern Economics]: The record label of the future is no label at all[Modern Economics]: The record label of the future is no label at all[Classic Economics]: The sugar conspiracy[Classic Economics]: The sugar conspiracy[Business is Entertainment]: Roma exposes Mexico's darkest secret[Business is Entertainment]: Roma exposes Mexico's darkest secret Based on an excellent recommendation by members of the community, I asterisk* paid articles. I have started adding podcasts, which use a caret^. Please do drop in reads that you found interesting this week here and I would love to accommodate them. You can pass on the love by sharing this with your friends and colleagues who can sign up here, and these are all the previous editions. 
+
+I started this with the belief that there is a whitespace on conversations by venture capitalists in the entrepreneurial and startup ecosystem in India. This is my small way of starting a conversation. In case you have any feedback on the structure, design or content please feel free to reach out to me in reply to this email. 
+
+Cheers,
+Aviral Based on an excellent recommendation by members of the community, I asterisk* paid articles. I have started adding podcasts, which use a caret^. Please do drop in reads that you found interesting this week here and I would love to accommodate them. You can pass on the love by sharing this with your friends and colleagues who can sign up here, and these are all the previous editions. 
+
+I started this with the belief that there is a whitespace on conversations by venture capitalists in the entrepreneurial and startup ecosystem in India. This is my small way of starting a conversation. In case you have any feedback on the structure, design or content please feel free to reach out to me in reply to this email. 
+
+Cheers,
+Aviral Copyright © 2019, All rights reserved.Lyft filed its S-1 yesterday, stealing a march on Uber in the IPO battle between the two American ridesharing giants. Lyft is expected to go public for $20Bn, with nearly $1Bn in losses. It is an interesting "first mover advantage" where investors wanting exposure to ride-sharing companies can whet their appetite with Lyft. Lyft has employed some interesting strategies, such as doling cash bonuses to rider-partners to buy shares in the IPO. This is going to be a big year for ride-sharing, as the two finally go under public scrutiny.
+
+Given the incredibly helpful nature of the community, I will be starting with weekly requests to you. This week's request - if you have an understanding of the Bangladesh market, specifically e-commerce and education, please reach out to me.Last week, Swiggy invested in Fingerlix and was in the lead to acquire UberEats, just a few weeks after acquiring Kinto.aiSwiggy's growth has been breathtaking. It was only 4 years ago when Swiggy raised its first seed round of $2MM, at a time when TinyOwl had raised $23MM, FoodPanda was acquiring startups, and Zomato was worth $1Bn. Today, TinyOwl is dead, FoodPanda is acquired, and Zomato is worth $2Bn.
+
+Swiggy, though, is worth $3.3Bn. 
+
+In its first year, Swiggy was delivering 1000 orders a day, largely focused on Bengaluru. A key hallmark of Swiggy's strategy has been its focus on establishing product-market fit in a particular geography before scaling. In the words of its founder Sriharsha Majety, "we will serve better experiences to win".
+
+That would set the tone of Swiggy's voracious appetite for growth, where it would exhibit three distinct kinds of hunger.
+
+Swiggy's first kind of hunger (organical vertical) would be satisfied through the scaling of its food delivery business. Swiggy grew 2x every few months, and even faster post its seed round. It would follow up within 6 months with a $16.5MM round as it began to onboard its own delivery personnel onto the platform. This would be a game-changing move that would allow Swiggy to tightly manage customer experience, as it scaled to 70K orders/month in mid-2015. 
+
+Post funding, the company scaled "only" to 7 cities, much lower than TinyOwl's 18 cities. "Monopolize a market before scaling" was the maxim that Peter Thiel propagated, and Swiggy had been practising from day one. While Swiggy continued to scale, TinyOwl would begin to show signs of struggling. Most companies die of indigestion, and not of starvation, and it would play out most clearly (ironically) in the food delivery space. 
+
+Swiggy would go onto raise $35MM in Jan 2016, while TinyOwl and FoodPanda would die of indigestion. 
+
+By mid-2016, the company had scaled to 1.2MM orders a month, from 70K in mid-2015, a phenomenal 15x growth in 1 year. The company, during this round, claimed that it was operationally profitable in its first two cities of Bangalore and Hyderabad. Operational profitability really brings up the question of unit economics, or the profit Swiggy makes on every unit (i.e. order).
+
+Before we dig into unit economics, we need to understand what Swiggy really is.
+
+Swiggy is essentially a matchmaking platform acquiring a customer to discover a restaurant, where it provides a delivery service to "match" the customer with the restaurant. Swiggy charges customers for the food and takes a commission from the restaurant for the delivery. It would also give a delivery fee to its executives.
+
+Given the customer would pay the same amount for the food if purchased at the restaurant, Swiggy basically started by providin the delivery for "free" to the customer, while charging the restaurant. This is a classic matchmaker cross-subsidization strategy, where the customer is subsidized by the vendor. 
+
+Swiggy's unit economics would thus depend on average order value, commission, the delivery fee and its customer acquisition cost. This is something we should keep in mind, as the company scaled.
+
+In mid-2017, the company had scaled 2x to 2.7MM orders per month, or a $10MM GMV per month. Swiggy would end up raising $80MM, at a $400MM valuation, as its appetite for scale grew. Notwithstanding a minor "scandal" on investor disclosure, the company continued its rapid growth and raised $100MM in early 2018. It would follow with a $210MM raise in mid-2018, to become India's fastest unicorn. 
+
+2018 would end with a giant $1Bn fund-raise that would put Swiggy top of the stack in terms of valuation in the food delivery space. The company's first kind of hunger had gotten it pretty far. 
+
+It is now necessary to understand the unit-economics of the "core" food delivery business, to understand the necessity to scale.  With an average order value of 380 INR ($5) the company makes a commission of 25% ($1.5/90 INR). Adding an additional delivery fee of 20 INR, the company makes 110 INR. Paying delivery executives ~90 INR/delivery, it makes 20 INR per delivery of margin. For a customer acquired for 200 INR, it would 10 deliveries (200/20) to recover customer acquisition cost (i.e. payback period). 
+
+This meant that Swiggy would need to keep visiting customers regularly, and this would be something I love to call Swiggy's battle for your doorstep.  Swiggy's second kind of hunger (organic horizontal) would now come to the fore - delivering more than just restaurant food through its delivery service. Now that Swiggy visited your doorstep, it could deliver you more than just food, or even curate it. Swiggy's Stores, as I had postulated, would do exactly this by delivering everyday groceries at your doorstep. 
+
+Utilizing its delivery network to sell low order value, high-frequency items apart from food, would unlock even more value from its customers. With a massive network, across multiple cities, the company launched the food curating Swiggy Pop, which I analyzed made a lot of sense from a financial perspective. The final, all-consuming hunger (inorganic), would be Swiggy's growth through acquisitions.It would acquire SuprDaily to bolster its second kind of hunger, as it looked to get into groceries. Its acquisition of Kint.io would bolster its first kind of hunger, by allowing it to improve customer experience. The most giant meal, though, is likely to be Swiggy's acquisition of Uber Eats, which I speculate is a fire sale by Uber. Swiggy's appetite has not resulted in indigestion yet, and it doesn't look like it will be stopped. With ~20MM orders a month, the company is likely doing $100MM of GMV a month, or $1.2Bn a year. The ~25% take rate would put Swiggy's revenue at $300MM. Assuming at least 10% of additional revenue from its other streams, the company's revenue is $330MM. At a $3.3Bn valuation, it is valued at 10x revenue.For the massive market that Swiggy is looking at, its increasing appetite is likely to be justified. This week I look at India1, Africa and Bezos[Large Startups]: India1 and Avocado startups[Large Startups]: India1 and Avocado startups[Work Culture]: Feeling anxious - it's not just you[Work Culture]: Feeling anxious - it's not just you[Growing Startups]: Angel investing - rules, checklists and models[Growing Startups]: Angel investing - rules, checklists and models[Buzzwords]: Humanity + AI - better world[Buzzwords]: Humanity + AI - better world[Life x Startups]: Ideas are easy, sorting them is hard[Life x Startups]: Ideas are easy, sorting them is hard[The New Monopolies]: The value chain constraint[The New Monopolies]: The value chain constraint[Data!]: Why hipsters look the same[Data!]: Why hipsters look the same[Modern Economics]: Why tech companies hire so many economists[Modern Economics]: Why tech companies hire so many economists[Classic Economics]: Africa's richest man makes a $17Bn bid for immortality[Classic Economics]: Africa's richest man makes a $17Bn bid for immortality[Business is Entertainment]: How Jeff Bezos lost control[Business is Entertainment]: How Jeff Bezos lost control Based on an excellent recommendation by members of the community, I asterisk* paid articles. I have started adding podcasts, which use a caret^. Please do drop in reads that you found interesting this week here and I would love to accommodate them. You can pass on the love by sharing this with your friends and colleagues who can sign up here, and these are all the previous editions. 
+
+I started this with the belief that there is a whitespace on conversations by venture capitalists in the entrepreneurial and startup ecosystem in India. This is my small way of starting a conversation. In case you have any feedback on the structure, design or content please feel free to reach out to me in reply to this email. 
+
+Cheers,
+Aviral Based on an excellent recommendation by members of the community, I asterisk* paid articles. I have started adding podcasts, which use a caret^. Please do drop in reads that you found interesting this week here and I would love to accommodate them. You can pass on the love by sharing this with your friends and colleagues who can sign up here, and these are all the previous editions. 
+
+I started this with the belief that there is a whitespace on conversations by venture capitalists in the entrepreneurial and startup ecosystem in India. This is my small way of starting a conversation. In case you have any feedback on the structure, design or content please feel free to reach out to me in reply to this email. 
+
+Cheers,
+Aviral Copyright © 2019, All rights reserved.Pinterest, the visual search application, filed to go public this year. The quietly run platform, with a dedicated 250MM user base, is adding to the list of mega IPOs likely to happen in 2019. Uber, Lyft and Slack are all likely to file for IPOs this year. The 4 have each raised more than $1Bn in the private markets, with a total of $35Bn (Uber - $25Bn, Lyft - $5Bn, Pinterest - $1.5Bn, Slack - $1.2Bn). The IPO market is going to be hot this year, with Uber likely to be the biggest IPO of all time. 2019 is going to be a very interesting year for many venture capital investors and early employees. 
+
+Given the incredibly helpful nature of the community, I will be starting with weekly requests to you. This week's request - if you have a beauty brand or startup, or know someone who does, please reach out to me.Last week, beauty e-commerce platform Nykaa was looking to raise $30MM, after raising $20MM last year. Nykaa has been a revelation. The company's robust growth flies in the face of the general belief that vertical marketplaces (e.g. Nykaa) would never be able to compete at scale with a horizontal marketplace (e.g. Amazon). The large customer base, infrastructure and supplier network of a horizontal player would outdo a vertical player. 
+
+Nykaa's 100% year on year growth says otherwise, with good reason.
+
+The internet now provides easier access to the long tail of customers, and suppliers. Discerning readers would recall from last week's edition that the internet has substantially reduced customer acquisition and fulfilment costs. Aggregating the long tail can result in a passionate customer base, that keeps coming back because the vertical platform solves a focused problem like nobody else. 
+
+Even with the internet's assistance, Nykaa was still staring at an uphill task.
+
+Started in 2012, by ex-Kotak Mahindra MD Falguni Nayar, the company was an interesting blend of a startup setup by an influential industry veteran. Ms. Nayar's wealth of experience would show in the company's journey, as Nykaa attempted to create an entire market from scratch.
+
+That market, of course, was selling beauty products online.
+
+A lot of products that begin to sell quickly online have a fairly large demand offline. The internet becomes a facilitator for the sale, and thus customer acquisition is efficient. Despite India having 1.2 Billion people, or 1/6th of the world's population, the Indian beauty market stood at $6Bn in 2018, almost 1/5oth of the world's beauty market. Driven largely by women, the nascent market is still playing catch up globally.  
+
+Beauty is also complex category because it involves personal care. Electronics, for example, can take a "one size fits all" approach and still sell. Beauty, on the other hand, has to be tailored to personal specifications (e.g. skin type, sensitivities, climate). Given India's diverse demographic and climate only adds to the complexity.
+
+As they say, beauty lies in the eye of the beholder, and the beholders are many. 
+
+To serve the needs of a multitude of customers, there would thus be a myriad of products and SKUs (imagine lipstick shades for one type of lipstick). Not only are the customers long tail, but so are the products. The result of this is a disorganized, fragmented, market with a variety of channels to sell products. 
+
+Driving online adoption for a nascent, complex market would thus be significantly difficult.
+
+The online market was a tiny sliver of the overall market, and when Nykaa raised its Series A in 2014, the company was barely scratching the surface. As I touched upon earlier, beauty is intensely personal and therefore requires you to become a trusted brand. 
+
+Nascent market (few), small online channels (new), trust to be built (unconvinced) are the characteristics of the market. Few, new, unconvinced customers - it was an uphill task indeed.
+
+The lack of trust was apparent in the first few years. Nykaa rightly identified the need for handholding and advice to help customers make informed purchasing decisions. The company took an inventory-heavy marketplace approach to manage quality. It simplified UI/UX to ensure that the purchasing experience was seamless. It expanded into offline stores to have physical touchpoints. 
+
+The outcome would be fantastic, and no commentator would have reckoned that Nykaa would scale so rapidly. 
+
+Net revenue progressed from $4MM in FY15, $14MM  in FY16, $30MM in FY17, $80MM in FY18 and is expected to close April'19 this year at $160MM. In just 4 years, the company has grown 40x, tracking more than 100% growth every year. As Nykaa is an inventory-led marketplace, its margins on products are higher than horizontal marketplaces. With 30-50% margins on seller's products, the company also launched its own label with 40-60% margins, to improve margins. 
+
+With healthier margins than other marketplaces, one could now explain the curiously "small" amounts Nykaa has raised.
+
+Ranging between $10-20MM, the company has raised similar amounts since its Series B, and not progressively increasing amounts (e.g. OYO). This indicates a healthily growing business, on track to profitability, which is not extremely capital hungry.
+
+To demonstrate capital efficiency, tt took OYO $1.7Bn to reach a $5Bn valuation (2.9x ratio of valuation to raise), while it took Nykaa $120MM to reach a $640MM valuation (5.3x ratio). For more comparisons, Ola is 1.6x, Swiggy is 2.1x for the same multiple - and this is a fairly robust indicator of capital efficiency. 
+
+While the market was difficult while starting out, it became a fantastic business if the engines starting working.
+
+Due to Nykaa's premium focus, it has an average ticket size of 1,200 INR ($18), with gross margins of ~50%. Subtracting a 20% fulfilment cost, given the inventory-heavy business, would leave the company with 30% of revenue (360 INR/$5) as contribution margin (CM). Nykaa's customer acquisition cost (CAC) is 200 INR ($3). [thanks to inputs by readers on the difficulty of following the math in a story, I will be creating an Excel going forward]
+
+The healthy ratio of first-order contribution margin to CAC ($5/$3 = 1.6x), shows that the company generates a profit (CM - CAC) for every customer acquired. Given the company is now a trusted brand, repeat makes the business even more attractive (high lifetime value). It is little wonder that Ms. Nayar believes the business will be profitable very soon. 
+
+Beyond a healthy business, the power of Nykaa is truly seen in its platform.
+
+Amazon changed the way sellers sold products, and I believe Nykaa will do the same for beauty brands. With a readymade infrastructure to sell products and a large customer base provided by Nykaa, beauty entrepreneurs will find it far easier to launch brands. Due to Nykaa, I expect a large number of beauty brands to mushroom and become incredibly popular (think Youtube influencers).
+
+Nykaa has created a new market, and the juggernaut is just getting started. This week I look at Unicorns, Alexa and LEGO[Large Startups]: PE/VC fundraising slowdown in India[Large Startups]: PE/VC fundraising slowdown in India[Work Culture]: Life is short[Work Culture]: Life is short[Growing Startups]: The fundamental problem with blitzscaling[Growing Startups]: The fundamental problem with blitzscaling[Buzzwords]: 5G is going to transform smartphones[Buzzwords]: 5G is going to transform smartphones[Life x Startups]: 50 future unicorns[Life x Startups]: 50 future unicorns[The New Monopolies]: Amazon Alexa and the search for one answer*[The New Monopolies]: Amazon Alexa and the search for one answer*[Data!]: China uses DNA to track its people - with America's help*[Data!]: China uses DNA to track its people - with America's help*[Modern Economics]: The hot new asset class is LEGO[Modern Economics]: The hot new asset class is LEGO[Classic Economics]: US is a rich country with developing nation symptoms[Classic Economics]: US is a rich country with developing nation symptoms[Business is Entertainment]: Jennifer Aniston cried in my lap - FRIENDS[Business is Entertainment]: Jennifer Aniston cried in my lap - FRIENDS Based on an excellent recommendation by members of the community, I asterisk* paid articles. I have started adding podcasts, which use a caret^. Please do drop in reads that you found interesting this week here and I would love to accommodate them. You can pass on the love by sharing this with your friends and colleagues who can sign up here, and these are all the previous editions. 
+
+I started this with the belief that there is a whitespace on conversations by venture capitalists in the entrepreneurial and startup ecosystem in India. This is my small way of starting a conversation. In case you have any feedback on the structure, design or content please feel free to reach out to me in reply to this email. 
+
+Cheers,
+Aviral Based on an excellent recommendation by members of the community, I asterisk* paid articles. I have started adding podcasts, which use a caret^. Please do drop in reads that you found interesting this week here and I would love to accommodate them. You can pass on the love by sharing this with your friends and colleagues who can sign up here, and these are all the previous editions. 
+
+I started this with the belief that there is a whitespace on conversations by venture capitalists in the entrepreneurial and startup ecosystem in India. This is my small way of starting a conversation. In case you have any feedback on the structure, design or content please feel free to reach out to me in reply to this email. 
+
+Cheers,
+Aviral Copyright © 2019, All rights reserved.Amazon, which had very publicly been courting US cities for a headquarter, pulled out of their New York City plans. 3 months ago, I had highlighted Amazon's strategy to be one which would help collect lucrative city data, and it is possible Amazon got what it really wanted. Reactions to Amazon's bailing on the plan have been intense, and divided. Some believe that Long Island City (a New York neighbourhood) has lost an opportunity of a lifetime, while others believe that Amazon would have not cut a fair deal. How this plays out will be an interesting watch, both politically and economically.Last week, e-commerce marketplace Zilingo raised $225M, putting the company in touching distance of unicorn-dom.Zilingo's rise from an office in Bangalore, in 2015, before the company moved to Bangkok and then Singapore, is intriguing. The company's founders, Ankiti Bose and Dhruv Kapoor, were both professionals in India who identified a significant opportunity to change e-commerce. 
+
+That opportunity lay not in India, but South East Asia.
+
+On a visit to Thailand, Ms. Bose observed the pattern of weekend shoppers coming to Bangkok's Chatuchak market to purchase goods. While these products and sellers were popular, they had little or no digital presence. Armed with this observation, Ms. Bose returned and left her job at a VC firm, to start Zilingo.
+
+Zilingo would be the birth of a "Build in India, Sell to the World" story, with a twist. 
+
+Most Indian entrepreneurs, going back to the times of Infosys, would build solutions and processes for the consumption of Western markets. The arbitrage would be the lower cost of tech talent in India, which could be viable to global firms. "Earn in dollars, and spend in rupees" was the mantra, and that fuelled most of the $150Bn IT boom.
+
+Companies like Zoho moved the needle forward in terms of value addition. The company went head-on with Salesforce, as a quality product. The market, though, was still Western and the arbitrage still involved cost. 
+
+Zilingo has flipped the paradigm, by aiming to build a fundamentally better product experience for South East Asian markets. 
+
+No cost arbitrage, and no selling to the West, or even India.
+
+With the technical team set up in Bangalore, the company began by setting up online storefronts for sellers. As an e-commerce marketplace in Thailand and Cambodia, it solved the classic marketplace problem. Sellers (namely small store owners) wanted more buyers (namely weekend shoppers), and buyers wanted a greater variety of well priced products. These sellers, who sold in malls and offline, were "long tail" sellers who had no online presence. 
+
+This market, though, would be worth $20Bn in the South East Asian region.
+
+To tap into this market, which was disorganized and low ticket size, Zilingo's platform would allow these sellers to sell online. Like any other platform, the company would take a fee of 10-15% on each sale. With an inventory light model, the cost to Zilingo on every purchase would be the packaging and promotion cost. As early as within the first year, it claimed that it was "unit profitable" to the tune of 3-4%. 
+
+The company on-boarded 2,000 sellers rapidly and it was clearly onto something.
+
+While the e-commerce marketplace began to pick up rapidly, the company began testing a "feature" which would be providing sellers with the infrastructure to formalize their business. It is credit to the team for being perceptive in identifying that this "free" software-as-a-service was a significant pain point, which would also lock these sellers in onto the platform. 
+
+Within a year, the company would 10x in revenue to ~$2MM and 4x in sellers, while raising $18MM.
+
+One key achievement that most press releases have missed is the ability of the founding team to hire fantastic talent domestic to South East Asia, despite the founders having little or no background in these markets. With an expansion into Indonesia, the company demonstrated 85% monthly growth, a testament to its ability to hire quality teams that had ears on the ground.
+
+With a strong, growing team, Zilingo was already shipping to 8 countries, with sellers in Thailand, Indonesia, Hong Kong, Korea, Vietnam and Cambodia. Leveraging the "free" software that the company had created, it set up a B2B platform, Asia Mall, that allowed sellers to buy from manufacturers. While this may seem like an extension of the original B2C business, this, in fact, opened up an entirely different market.
+
+A market that accounted for 49% of the world's exports, worth $3Tn that originated in ASEAN and China.
+
+What seemed like a "feature" turned out to be a full-blown strategy to backward integrate into the supply chain. Not only was Zilingo providing these sellers customers through Zilingo, but was also providing the sellers suppliers through Asia Mall. By being the back-end (supply) and the front-end (demand) of the sellers, the company was evolving into a "full stack solution" for these sellers. 
+
+While the B2C market heated up, and competitors like Zalora and Lazard stumbled, Zilingo's backward integration and B2B play put it closer to the source of products, and less reliant on B2C. Even if a seller did not utilize the B2C platform, the B2B sourcing would create value for the seller. 
+
+This shift would ramp up the revenue by 10x again to $15MM in 2018, coupled with a $50MM fundraise.
+
+By now, the company saw 60% of its revenue come from B2B. The slick design of the website saw traffic come through a slicker TV ad (that I don't understand, but like nonetheless). Indonesia was becoming a larger market, and Zilingo was deepening its customer (i.e. seller) relationship. Apart from helping the sellers organize their business, it began to upsell financial services, inventory management and data-driven product choices. 
+
+From being a marketplace, the company had evolved into a supply chain enabler across SEA.
+
+In the last year, the company has likely grown to ~$60MM of revenue ($1.2MM*12x*4x over 2 years), with 12K+ sellers on its platform in more than 10 countries. From an average seller, the company is thus generating revenue worth ~$5K, both through the B2C platform and B2B services.
+
+Assuming the 40%-60% B2C/B2B split remains, each seller generates $2K from B2C and $3K from B2B for Zilingo. As per the Zilingo's earlier estimates, a 4% overall B2C margin, after promotions, puts B2C gross margin at 40% (4% overall margin/10% transaction fee). The B2B margins are likely to be Software-as-a-Service margins or 80%. The company, therefore, has a blended margin of 40*$2K + 80%*$3K = $3.2K. Assuming a seller stays for at least one year, the company can, therefore, spend ~$3.2K acquiring the seller (CAC)
+
+The B2C GMV, assuming a 10% platform fee, is, therefore, close to $240MM ($60MM*0.4/0.1). For a market worth $20Bn, that is still 1% and room for expansion. On the B2B side, which is the bigger play, the company generates ~$36MM. This would likely be a drop in the ocean for the $1Tn+ sourcing market.
+
+With its eyes set on expansion into the US, Philipines and Australia, the opportunity is immense. While the $1Bn valuation may seem rich for a $60MM revenue (15x), consider the company's demonstrated growth and market opportunity. If Zilingo is able to continue executing, and capture more of the market, the $1Bn valuation may begin to look cheap.
+
+Zilingo quiet rise to unicorn-dom may just be the beginning of its path to a zillion. 
+
+This week I look at AR, Waymo and Wall Street.[Large Startups]: India's rental disruptors[Large Startups]: India's rental disruptors[Work Culture]: The elusive formula for great hiring^[Work Culture]: The elusive formula for great hiring^[Growing Startups]: UNIQLO's plot to beat Zara*[Growing Startups]: UNIQLO's plot to beat Zara*[Buzzwords]: AR will spark the next big tech platform - MirrorWorld[Buzzwords]: AR will spark the next big tech platform - MirrorWorld[Life x Startups]: Frontier markets to startup in[Life x Startups]: Frontier markets to startup in[The New Monopolies]: Waymo risks repeating Valley's most famous blunder[The New Monopolies]: Waymo risks repeating Valley's most famous blunder[Data!]: Are you doing OKRs right?*[Data!]: Are you doing OKRs right?*[Modern Economics]: Why is AI biased - according to economics[Modern Economics]: Why is AI biased - according to economics[Classic Economics]: When Wall Street is your landlord[Classic Economics]: When Wall Street is your landlord[Business is Entertainment]: Gully Boy is a must watch[Business is Entertainment]: Gully Boy is a must watch Based on an excellent recommendation by members of the community, I asterisk* paid articles. I have started adding podcasts, which use a caret^. Please do drop in reads that you found interesting this week here and I would love to accommodate them. You can pass on the love by sharing this with your friends and colleagues who can sign up here, and these are all the previous editions. 
+
+I started this with the belief that there is a whitespace on conversations by venture capitalists in the entrepreneurial and startup ecosystem in India. This is my small way of starting a conversation. In case you have any feedback on the structure, design or content please feel free to reach out to me in reply to this email. 
+
+Cheers,
+Aviral Based on an excellent recommendation by members of the community, I asterisk* paid articles. I have started adding podcasts, which use a caret^. Please do drop in reads that you found interesting this week here and I would love to accommodate them. You can pass on the love by sharing this with your friends and colleagues who can sign up here, and these are all the previous editions. 
+
+I started this with the belief that there is a whitespace on conversations by venture capitalists in the entrepreneurial and startup ecosystem in India. This is my small way of starting a conversation. In case you have any feedback on the structure, design or content please feel free to reach out to me in reply to this email. 
+
+Cheers,
+Aviral Copyright © 2019, All rights reserved.Jeff Bezos' personal affair took a highly political (and lurid) turn with Amazon's #1 releasing detailed emails of blackmail by the National Enquirer. The emails are explicit and personal, but they have converted Jeff Bezos' divorce from a personal issue to a political one. The company backing the National Enquirer, AMI, is led by David Pecker. AMI, alleges Bezos, is being utilized for political reasons, in an allusion to the President Trump. This political turn is going to be interesting to watch, as it develops over the next few weeks.Last week, the Indian government stuck to its e-commerce FDI ruling and set off intense speculation about Reliance's potential entry into e-commerce.The changes were announced to be rolled out on February 1, and the government followed through. While Amazon and Flipkart "lobbied" hard (I speculate they didn't), the companies had to take 50% of the products off their websites. The key change was that marketplaces could not have related parties as sellers, along with other compliances related to discounts. 
+
+Amazon and Walmart would end up getting pummelled in the stock market.
+
+Losing $50 Billion in combined market cap, with Amazon accounting for $45Bn, the impact of the rules were immediate. It is thus clear that India is a significant market for both the American retail giants. Amazon has invested $5Bn in India, and continues to. Walmart bought Flipkart, which I postulated a few months ago is turning out to be a bad deal.
+
+Morgan Stanley followed up by saying Walmart may exit India, if the rules didn't change. I speculate that this is less truth, and more a lobbying move that Walmart has set into motion because it is serious about India (and has spent serious money). The US government yesterday announced it would mull removing the zero tariff for Indian exports. 
+
+That this would happen was expected, because the government's move is more political and less economic.
+
+When the present government came into power with a full majority, the Prime Minister warned local businessmen that global competition was inevitable. This would have been a bitter pill to swallow, but with its majority it would be a pill that could be given. 4 years later, with a looming election, assembly losses and hits to small businesses, the government has likely moved to appease small businesses and one large business house.
+
+That large business house, of course, is Reliance. 
+
+As a believer in the benefits of free markets, I don't think the government regulations are beneficial to the Indian consumer or the economy. What I have always been impressed with, is Reliance and its Chairman Mr. Ambani's continual ability to influence governmental decision making. The conglomerate has demonstrated its ability to engage in regulatory arbitrage, or capitalizing on regulatory loopholes.
+
+Nowhere was this seen better than Reliance's Jio blitzkrieg.
+
+The company took advantage of regulatory loopholes to advance its telecom position (e.g. long promotional periods). According to Airtel's Chairman Sunil Mittal, Reliance Jio wiped off "$50 Bn" off telecom companies. This sounds quite familiar to the $50Bn lost by the American retail giants last week. Why would Reliance be doing the same for Indian e-commerce?
+
+Can't win the game? Change the rules, of course.
+
+Speaking at the Vibrant Gujarat Summit, Mr. Ambani announced that Reliance would foray into e-commerce in a big way. The timing was two weeks before the February 1 deadline, which would not apply to Reliance. It was followed up with an announcement of a $1.4Bn investment in West Bengal, with "e-commerce being a part percentage".
+
+Commentators have speculated of an "impending bout between Bezos/Ambani", "Bezos' newest challenger in Asia is Ambani", "Reliance to disrupt Amazon and Flipkart". It clearly appears to commentators that Reliance is the dark horse in e-commerce, challenging the Flipkart-Amazon duopoly. 
+
+The fact that telecom and e-commerce are both winner takes all markets, due to network effects, is an even more compelling reason to draw parallels with Reliance's Jio disruption.
+
+But let's dig deep into what Reliance is really doing. The company plans to leverage both Jio and Reliance retail to setup an "e-commerce venture". Reliance will provide systems to many small retailers to come "online". It will use e-commerce kiosks with Jio stores for customers "to purchase products" and be online. 
+
+What strategically seems like a powerful marriage between the massive online customer base of Jio and Reliance Retail's offline presence, it is actually just more of the same. 
+
+E-commerce is not just an app with access to physical stores, it is a strong customer purchasing experience integrated with powerful logistics. Bringing people online is not e-commerce, as Reliance actually describes what it will do. The company's statements are tentative and exploratory. History says that Reliance has not disrupted e-commerce when it tried to do exactly this with Reliance Digital.
+
+Comparing Google trends for Amazon, Flipkart and Reliance Digital shows why Reliance is likely to remain an afterthought in e-commerce.
+
+User experience and logistics are a significant moat that both Amazon and Flipkart have created in the Indian market. These are both competencies that Reliance lacks, and will have to add, to even begin challenging. This is very different from the Jio story, where Reliance invested 150K Cr ($20Bn) and built telecom competency before blitzing the market with both know-how, infrastructure and capital. Amazon has already started seeing products return on the platform, and it won't be long before business resumes as usual. 
+
+Reliance is more likely to be a silent bystander, than a dark horse, in India's e-commerce warsThis week, I look at Failure, Softbank and Tinder.[Large Startups]: Spotify's podcast aggregation play[Large Startups]: Spotify's podcast aggregation play[Work Culture]: Reflecting on my failure to build a $1Bn company[Work Culture]: Reflecting on my failure to build a $1Bn company[Growing Startups]: How Softbank ate the world[Growing Startups]: How Softbank ate the world[Buzzwords]: Why blockchain differs from traditional technology cycles[Buzzwords]: Why blockchain differs from traditional technology cycles[Life x Startups]: Is VC still a thing?[Life x Startups]: Is VC still a thing?[The New Monopolies]: I cut the big five from my life - and it was hell[The New Monopolies]: I cut the big five from my life - and it was hell[Data!]: The Tinder algorithm explained[Data!]: The Tinder algorithm explained[Modern Economics]: How Howard Schultz left a bitter taste in Seattle's mouth[Modern Economics]: How Howard Schultz left a bitter taste in Seattle's mouth[Classic Economics]: The Church with the $6Bn portfolio*[Classic Economics]: The Church with the $6Bn portfolio*[Business is Entertainment]: They really don't make music like they used to[Business is Entertainment]: They really don't make music like they used to Based on an excellent recommendation by members of the community, I asterisk* paid articles. I have started adding podcasts, which use a caret^. Please do drop in reads that you found interesting this week here and I would love to accommodate them. You can pass on the love by sharing this with your friends and colleagues who can sign up here, and these are all the previous editions. 
+
+I started this with the belief that there is a whitespace on conversations by venture capitalists in the entrepreneurial and startup ecosystem in India. This is my small way of starting a conversation. In case you have any feedback on the structure, design or content please feel free to reach out to me in reply to this email. 
+
+Cheers,
+Aviral Based on an excellent recommendation by members of the community, I asterisk* paid articles. I have started adding podcasts, which use a caret^. Please do drop in reads that you found interesting this week here and I would love to accommodate them. You can pass on the love by sharing this with your friends and colleagues who can sign up here, and these are all the previous editions. 
+
+I started this with the belief that there is a whitespace on conversations by venture capitalists in the entrepreneurial and startup ecosystem in India. This is my small way of starting a conversation. In case you have any feedback on the structure, design or content please feel free to reach out to me in reply to this email. 
+
+Cheers,
+Aviral Copyright © 2019, All rights reserved.The South East Asian ride-hailing company Go-Jek last week closed the first part of its $2Bn fundraise, valuing it at close to $10Bn. The entire Asian ecosystem is seeing multiple large players rising to solve the last mile transport and logistics problem, with Grab raising $7.3Bn (and acquiring Uber SEA), Didi Chuxing raising $27Bn (and acquiring Uber China) and Ola raising $4Bn (to acquire Uber India?). Like I had observed for Ola, most of these companies are evolving into everything platforms - with food, taxis, scooters and payments. It is going to be incredibly interesting to see which company's playbook will scale and succeed. Last week, risk assessment startup CreditVidya raised $3MM, insurance tech startup Kruzr raised $2MM, mutual funds platform Groww raised $7MM and lending tech startup MoneyOnClick raised $3MM. Deploying $15MM in 4 diverse companies over one week is a strong signal of how particularly interesting financial technology in India is. When it comes to fintech, the first (and only) name that comes to mind is Paytm, while other sectors like e-commerce have (ersthwile?) unicorns Flipkart, Snapdeal, Shopclues. 
+
+Yet in 2018, the most well-funded sector was not e-commerce, but fintech. 
+
+More than $2Bn was deployed across 120+ deals, an average ticket size of ~$16MM per deal. If you remove the top 10 deals that accounted for $1.2Bn, you will notice that the average ticket size for the remaining $800MM deployed is ~$8MM. Just like last week, the ticket size is a signal that there is significant investor interest across multiple companies. Compare this to accommodation which saw $1.06Bn deployed, and one company OYO accounted for 95% of the amount.
+
+Why is there so much confidence in Indian fintech, in diverse companies?
+
+Fundamentally, economies are built on financial transactions. For an economy consisting of 1.2Bn people, with a growth rate of ~7%, financial transactions already account for $1Tn. Of this, digital transactions form around ~30% in volume, and are expected to grow rapidly. There are multiple forces making this happen, the largest being the explosion of mobile usage and data. In just one year, data consumption has gone to 5GB per month, from 1GB. Mobile phone users have grown by 200MM users in 4 years. Most tellingly, 40% of India's population is unbanked. 
+
+The confluence of mobile, data and a lack of financial inclusion will help many users leapfrog into digital transactions.
+
+Leapfrogging is a phenomenon that was seen in full force during China's e-commerce boom. China went from small retail stores to giant e-commerce companies without the "intermediary" step of big-box retail (e.g. Walmart). In a similar manner, a lot of Indians who have never transacted with a bank, or had an account, will directly start with mobile transactions. This is an entirely new market and way of life, which means there are new rules and no players. 
+
+With no "competition" or incumbents, this is incredibly attractive for startups.
+
+Driven by this leapfrog into digital transactions, innovation is happening across verticals. Consumer requirements can be segmented into 5 themes - payments, investments, planning, borrowing and insurance.
+
+As it now becomes clear, each of the 4 companies that raised this week ties to one of these 5 themes. CreditVidya facilitates lending, MoneyOnClick provides loans, Groww helps with investing and Kruzr facilitates insurance. Planning is likely to become important after there is some financial maturity, while payments are already dominated by Paytm, signalling why the 3 themes are likely to see the most activity going forward.
+
+All this does not mean that the road will be smooth sailing for fintech.
+
+2017 and 18 were great years for fintech, driven by the once in a lifetime customer acquisition opportunity called demonetization. The Indian government made Digital India the core of their strategy to bring more people into the formal economy. Aadhar was revitalized, and the UPI was launched through BHIM in 2016.
+
+All of this evolved into a popular technology moniker called the India stack, which almost became a buzzword for the fintech community.
+
+The idea of the India stack is powerful. It allows businesses to effectively build in a paperless, presence-less ecosystem through digital identity (Aadhar, eKYC) and single interface payments (UPI). It would make onboarding customers frictionless and low cost, and allowed businesses to build for a financial ecosystem through a set of APIs. 
+
+But a 2018 Supreme Court ruling would drive a dagger through the heart of the stack. 
+
+The October ruling banned the use of Aadhar for private companies, making the digital identity block of the India stack redundant. This would increase the cost of onboarding and acquiring customers, around which a lot of businesses were built for scale.
+
+This would significantly impact businesses that have digital identity at the core, and I would expect consumer lending (but not business lending) to be significantly hurt going forward. There are a considerable number of companies doing digital lending, and I expect consolidation in the sector. Companies like Capital Float, which I had covered, are likely to still do well driven by lending being a requirement for businesses. 
+
+On the flipside, the incredible growth in UPI transactions are going to provide a filip to payments and investing businesses. I have been extremely optimistic about retail investing, as I had postulated in my analysis of Zerodha, and I think these factors will only contribute further to investing at a retail level. 
+
+Beyond regulations and short term disruptions, I am optimistic about the fundamental requirements for financial solutions for Indian consumers. We are a growing, young and aspirational population, and financial technology will be front of centre of the development of the economy. 
+
+As a long term investor, one should put their money (quite literally) into financial technology.This week, I look at 5G, Spotify and Stanford Business School.[Large Startups]: In India, driverless cars need a driver*[Large Startups]: In India, driverless cars need a driver*[Work Culture]: How to be successful[Work Culture]: How to be successful[Growing Startups]: How to build trust fast - learnings from Spotify^[Growing Startups]: How to build trust fast - learnings from Spotify^[Buzzwords]: 5G - if you build it we will fill it[Buzzwords]: 5G - if you build it we will fill it[Life x Startups]: Not all marketplaces are created equal[Life x Startups]: Not all marketplaces are created equal[The New Monopolies]: Private messages are the (old) new social network*[The New Monopolies]: Private messages are the (old) new social network*[Data!]: Is Alexa working?[Data!]: Is Alexa working?[Modern Economics]: The secret to Stanford Business School's success*[Modern Economics]: The secret to Stanford Business School's success*[Classic Economics]: A brief history of globalisation*[Classic Economics]: A brief history of globalisation*[Business is Entertainment]: Why exercise alone won't save us[Business is Entertainment]: Why exercise alone won't save us Based on an excellent recommendation by members of the community, I asterisk* paid articles. I have started adding podcasts, which use a caret^. Please do drop in reads that you found interesting this week here and I would love to accommodate them. You can pass on the love by sharing this with your friends and colleagues who can sign up here, and these are all the previous editions. 
+
+I started this with the belief that there is a whitespace on conversations by venture capitalists in the entrepreneurial and startup ecosystem in India. This is my small way of starting a conversation. In case you have any feedback on the structure, design or content please feel free to reach out to me in reply to this email. 
+
+Cheers,
+Aviral Based on an excellent recommendation by members of the community, I asterisk* paid articles. I have started adding podcasts, which use a caret^. Please do drop in reads that you found interesting this week here and I would love to accommodate them. You can pass on the love by sharing this with your friends and colleagues who can sign up here, and these are all the previous editions. 
+
+I started this with the belief that there is a whitespace on conversations by venture capitalists in the entrepreneurial and startup ecosystem in India. This is my small way of starting a conversation. In case you have any feedback on the structure, design or content please feel free to reach out to me in reply to this email. 
+
+Cheers,
+Aviral Copyright © 2019, All rights reserved.
